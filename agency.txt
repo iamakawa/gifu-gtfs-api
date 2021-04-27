@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+6000020212016,岐阜市,https://www.city.gifu.lg.jp/11537.htm,Asia/Tokyo,ja,058-214-2017,,

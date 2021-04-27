@@ -1,0 +1,2491 @@
+trans_id,lang,translation
+岐阜市,ja,岐阜市
+岐阜市,ja-Hrkt,ぎふし
+岐阜市,en,Gifu city
+JA・地域包括厚見,ja,JA・地域包括厚見
+JA・地域包括厚見,ja-Hrkt,じぇいえいちいきほうかつあつみ
+JA・地域包括厚見,en,JA/Chiikihokatsu Atsumi
+JAぎふ三輪支店,ja,JAぎふ三輪支店
+JAぎふ三輪支店,ja-Hrkt,じぇいえいぎふみわしてん
+JAぎふ三輪支店,en,JA Gifu Miwashiten
+ＪＡぎふ則武支店,ja,ＪＡぎふ則武支店
+ＪＡぎふ則武支店,ja-Hrkt,じぇいえいぎふのりたけしてん
+ＪＡぎふ則武支店,en,JA Gifu Noritakeshiten
+JAぎふ南長森支店,ja,JAぎふ南長森支店
+JAぎふ南長森支店,ja-Hrkt,じぇいえいぎふみなみながもりしてん
+JAぎふ南長森支店,en,JA Gifu Minaminagamorishiten
+ＪＡ岩野田支店,ja,ＪＡ岩野田支店
+ＪＡ岩野田支店,ja-Hrkt,じぇいえいいわのだしてん
+ＪＡ岩野田支店,en,JA Iwanodashiten
+JA常磐支店前,ja,JA常磐支店前
+JA常磐支店前,ja-Hrkt,じぇいえいときわしてんまえ
+JA常磐支店前,en,JA Tokiwashiten-mae
+ＪＡ日置江支店前,ja,ＪＡ日置江支店前
+ＪＡ日置江支店前,ja-Hrkt,じぇいえいひきえしてんまえ
+ＪＡ日置江支店前,en,JA Hikieshiten-mae
+JA日野支店南,ja,JA日野支店南
+JA日野支店南,ja-Hrkt,じぇいえいひのしてんみなみ
+JA日野支店南,en,JA Hinoshiten-minami
+JA藍川・竹内病院・ピノキオ薬局前,ja,JA藍川・竹内病院・ピノキオ薬局前
+JA藍川・竹内病院・ピノキオ薬局前,ja-Hrkt,じぇいえいあいかわ・たけうちいいん・ぴのきおやっきょくまえ
+JA藍川・竹内病院・ピノキオ薬局前,en,JA Aikawa/Takeuchi Iin/Pinocchio Yakkyoku-mae
+JA鶉支店前,ja,JA鶉支店前
+JA鶉支店前,ja-Hrkt,じぇいえいうずらしてんまえ
+JA鶉支店前,en,JA Uzurashiten-mae
+ＪＡ黒野支店前,ja,ＪＡ黒野支店前
+ＪＡ黒野支店前,ja-Hrkt,じぇいえいくろのしてんまえ
+ＪＡ黒野支店前,en,JA Kuronoshiten-mae
+ＪＲ岐阜駅南口,ja,ＪＲ岐阜駅南口
+ＪＲ岐阜駅南口,ja-Hrkt,じぇいあーるぎふえきみなみぐち
+ＪＲ岐阜駅南口,en,JR Gifueki-minamiguchi(JR Gifu Sta.-south entrance)
+ＮＴＴ本荘,ja,ＮＴＴ本荘
+ＮＴＴ本荘,ja-Hrkt,えぬてぃーてぃーほんじょう
+ＮＴＴ本荘,en,NTT Honjo
+Vドラッグ・アクトス前【廃止】,ja,Vドラッグ・アクトス前【廃止】
+Vドラッグ・アクトス前【廃止】,ja-Hrkt,ぶいどらっぐ・あくとすまえ
+Vドラッグ・アクトス前【廃止】,en,V Drug/AXTOS-mae
+Vドラッグ前,ja,Vドラッグ前
+Vドラッグ前,ja-Hrkt,ぶいどらっぐまえ
+Vドラッグ前,en,V Drug-mae
+Vドラッグ又丸店,ja,Vドラッグ又丸店
+Vドラッグ又丸店,ja-Hrkt,ぶいどらっぐまたまるてん
+Vドラッグ又丸店,en,V Drug Matamaruten
+あいレディスクリニック,ja,あいレディスクリニック
+あいレディスクリニック,ja-Hrkt,あいれでぃすくりにっく
+あいレディスクリニック,en,Ai Ladies Clinic
+あかね公園・市営アパート前,ja,あかね公園・市営アパート前
+あかね公園・市営アパート前,ja-Hrkt,あかねこうえん・しえいあぱーとまえ
+あかね公園・市営アパート前,en,Akane Koen(Akane Park)/Shiei Apato-mae(Shiei Apartment) 
+アミカ北,ja,アミカ北
+アミカ北,ja-Hrkt,あみかきた
+アミカ北,en,Amika-kita
+イオン各務原店,ja,イオン各務原店
+イオン各務原店,ja-Hrkt,いおんかかみがはらてん
+イオン各務原店,en,AEON Kakamigaharaten
+イオン柳津店,ja,イオン柳津店
+イオン柳津店,ja-Hrkt,いおんやないづてん
+イオン柳津店,en,AEON Yanaizuten
+イオン柳津店南口,ja,イオン柳津店南口
+イオン柳津店南口,ja-Hrkt,いおんやないづてんみなみぐち
+イオン柳津店南口,en,AEON Yanaizuten-minamiguchi
+イトーパッケージ前,ja,イトーパッケージ前
+イトーパッケージ前,ja-Hrkt,いとーぱっけーじまえ
+イトーパッケージ前,en,Ito Package-mae
+いながき理容店・松野酒店前,ja,いながき理容店・松野酒店前
+いながき理容店・松野酒店前,ja-Hrkt,いながきりようてん・まつのさけてんまえ
+いながき理容店・松野酒店前,en,Inagaki Riyoten/Matsuno Saketen-mae
+いぼ神・八幡神社,ja,いぼ神・八幡神社
+いぼ神・八幡神社,ja-Hrkt,いぼがみ・はちまんじんじゃ
+いぼ神・八幡神社,en,Ibogami/Hachimanjinja
+ウエルシア岐阜琴塚店,ja,ウエルシア岐阜琴塚店
+ウエルシア岐阜琴塚店,ja-Hrkt,うえるしあぎふことづかてん
+ウエルシア岐阜琴塚店,en,Welcia Gifu Kotozukaten
+うおいち前,ja,うおいち前
+うおいち前,ja-Hrkt,うおいちまえ
+うおいち前,en,Uoichi-mae
+うおよし前,ja,うおよし前
+うおよし前,ja-Hrkt,うおよしまえ
+うおよし前,en,Uoyoshi-mae
+うずら歯科,ja,うずら歯科
+うずら歯科,ja-Hrkt,うずらしか
+うずら歯科,en,Uzura Shika
+えんま堂,ja,えんま堂
+えんま堂,ja-Hrkt,えんまどう
+えんま堂,en,Emmado
+オーキッドパーク,ja,オーキッドパーク
+オーキッドパーク,ja-Hrkt,おーきっどぱーく
+オーキッドパーク,en,Orchidpark
+おおくま歯科前,ja,おおくま歯科前
+おおくま歯科前,ja-Hrkt,おおくましかまえ
+おおくま歯科前,en,Okuma Shika-mae
+オークワ西改田店,ja,オークワ西改田店
+オークワ西改田店,ja-Hrkt,おーくわにしかいでんてん
+オークワ西改田店,en,OKUWA Nishikaidenten
+おおのレディースクリニック,ja,おおのレディースクリニック
+おおのレディースクリニック,ja-Hrkt,おおのれでぃーすくりにっく
+おおのレディースクリニック,en,Ono Ladies Clinic
+おぶさ,ja,おぶさ
+おぶさ,ja-Hrkt,おぶさ
+おぶさ,en,Obusa
+おぶさ公民館前,ja,おぶさ公民館前
+おぶさ公民館前,ja-Hrkt,おぶさこうみんかんまえ
+おぶさ公民館前,en,Obusa Kominkan-mae
+おやま皮膚科,ja,おやま皮膚科
+おやま皮膚科,ja-Hrkt,おやまひふか
+おやま皮膚科,en,Oyama Hifuka
+カネスエ,ja,カネスエ
+カネスエ,ja-Hrkt,かねすえ
+カネスエ,en,Kanesue
+カネスエ（岐大前店）,ja,カネスエ（岐大前店）
+カネスエ（岐大前店）,ja-Hrkt,かねすえ（ぎだいまえてん）
+カネスエ（岐大前店）,en,Kanesue
+かねまつ整形外科前,ja,かねまつ整形外科前
+かねまつ整形外科前,ja-Hrkt,かねまつせいけいげかまえ
+かねまつ整形外科前,en,Kanematsu Seikeigeka-mae
+カフェすえひろ・西本整形外科・リハビリクリニック,ja,カフェすえひろ・西本整形外科・リハビリクリニック
+カフェすえひろ・西本整形外科・リハビリクリニック,ja-Hrkt,かふぇすえひろ・にしもとせいけいげか・りはびりくりにっく
+カフェすえひろ・西本整形外科・リハビリクリニック,en,Cafe Suehiro/Nishimoto Seikeigeka Rehabilitation Clinic
+カラオケハッピー・ローソン前,ja,カラオケハッピー・ローソン前
+カラオケハッピー・ローソン前,ja-Hrkt,からおけはっぴー・ろーそんまえ
+カラオケハッピー・ローソン前,en,Karaoke Happy/LAWSON-mae
+カラフルタウン,ja,カラフルタウン
+カラフルタウン,ja-Hrkt,からふるたうん
+カラフルタウン,en,COLORFUL TOWN
+カラフルタウン北口,ja,カラフルタウン北口
+カラフルタウン北口,ja-Hrkt,からふるたうんきたぐち
+カラフルタウン北口,en,COLORFUL TOWN-kitaguchi
+カラフルタウン南口,ja,カラフルタウン南口
+カラフルタウン南口,ja-Hrkt,からふるたうんみなみぐち
+カラフルタウン南口,en,COLORFUL TOWN-minamiguchi
+カローラ芥見店,ja,カローラ芥見店
+カローラ芥見店,ja-Hrkt,かろーらあくたみてん
+カローラ芥見店,en,COROLLA Akutamiten
+かわぐちクリニック・まみや薬局前,ja,かわぐちクリニック・まみや薬局前
+かわぐちクリニック・まみや薬局前,ja-Hrkt,かわぐちくりにっく・まみややっきょくまえ
+かわぐちクリニック・まみや薬局前,en,Kawaguchi Clinic/Mamiya yakkyoku-mae
+かわごえクリニック西,ja,かわごえクリニック西
+かわごえクリニック西,ja-Hrkt,かわごえくりにっくにし
+かわごえクリニック西,en,Kawagoe Clinic-nishi
+ぎふ清流福祉エリア,ja,ぎふ清流福祉エリア
+ぎふ清流福祉エリア,ja-Hrkt,ぎふせいりゅうふくしえりあ
+ぎふ清流福祉エリア,en,Gifuseiryu Fukushi Area
+くまざき内科前,ja,くまざき内科前
+くまざき内科前,ja-Hrkt,くまざきないかまえ
+くまざき内科前,en,Kumazaki Naika-mae
+くまだ眼科・テイコク前,ja,くまだ眼科・テイコク前
+くまだ眼科・テイコク前,ja-Hrkt,くまだがんか・ていこくまえ
+くまだ眼科・テイコク前,en,Kumada Ganka/Teikoku-mae
+グリーン歯科,ja,グリーン歯科
+グリーン歯科,ja-Hrkt,ぐりーんしか
+グリーン歯科,en,Green Shika
+ケーヨーデイツー,ja,ケーヨーデイツー
+ケーヨーデイツー,ja-Hrkt,けーよーでいつー
+ケーヨーデイツー,en,Keiyo D2
+こいし整形外科・しょうなん調剤薬局,ja,こいし整形外科・しょうなん調剤薬局
+こいし整形外科・しょうなん調剤薬局,ja-Hrkt,こいしせいけいげか・しょうなんちょうざいやっきょく
+こいし整形外科・しょうなん調剤薬局,en,Koishi Seikeigeka/Shonan Chozaiyakkyoku
+コートスマイル前,ja,コートスマイル前
+コートスマイル前,ja-Hrkt,こーとすまいるまえ
+コートスマイル前,en,Court Smile-mae
+ごとう整形外科,ja,ごとう整形外科
+ごとう整形外科,ja-Hrkt,ごとうせいけいげか
+ごとう整形外科,en,Goto Seikeigeka
+こばと幼稚園,ja,こばと幼稚園
+こばと幼稚園,ja-Hrkt,こばとようちえん
+こばと幼稚園,en,Kobato Yochien(Kobato Kindergarten)
+コメダコーヒー前,ja,コメダコーヒー前
+コメダコーヒー前,ja-Hrkt,こめだこーひーまえ
+コメダコーヒー前,en,Komeda's Coffee-mae
+コメリ岐阜三輪店前,ja,コメリ岐阜三輪店前
+コメリ岐阜三輪店前,ja-Hrkt,こめりぎふみわてんまえ
+コメリ岐阜三輪店前,en,Komeri Gifumiwaten-mae
+コロムビアファッションカレッジ,ja,コロムビアファッションカレッジ
+コロムビアファッションカレッジ,ja-Hrkt,ころむびあふぁっしょんかれっじ
+コロムビアファッションカレッジ,en,Columbia Fashion College
+ザ・パームガーデン前,ja,ザ・パームガーデン前
+ザ・パームガーデン前,ja-Hrkt,ざ・ぱーむがーでんまえ
+ザ・パームガーデン前,en,The Palm Garden-mae
+サカヤス前,ja,サカヤス前
+サカヤス前,ja-Hrkt,さかやすまえ
+サカヤス前,en,Sakayasu-mae
+サフィールあまいけ前,ja,サフィールあまいけ前
+サフィールあまいけ前,ja-Hrkt,さふぃーるあまいけまえ
+サフィールあまいけ前,en,Safir Amaike-mae
+サンマート【廃止】,ja,サンマート【廃止】
+サンマート【廃止】,ja-Hrkt,さんまーと
+サンマート【廃止】,en,Sunmart
+サンマート・長良整形,ja,サンマート・長良整形
+サンマート・長良整形,ja-Hrkt,さんまーと・ながらせいけい
+サンマート・長良整形,en,Sunmart/Nagara Seikei
+サンライフ岐阜,ja,サンライフ岐阜
+サンライフ岐阜,ja-Hrkt,さんらいふぎふ
+サンライフ岐阜,en,Sunlife Gifu
+しいのみ公園東,ja,しいのみ公園東
+しいのみ公園東,ja-Hrkt,しいのみこうえんひがし
+しいのみ公園東,en,Shiinomi Koen-higashi(Shiinomi Park)
+しま医院前,ja,しま医院前
+しま医院前,ja-Hrkt,しまいいんまえ
+しま医院前,en,Shima Iin-mae
+しもて歯科,ja,しもて歯科
+しもて歯科,ja-Hrkt,しもてしか
+しもて歯科,en,Shimote Shika
+シャトレーゼ南,ja,シャトレーゼ南
+シャトレーゼ南,ja-Hrkt,しゃとれーぜみなみ
+シャトレーゼ南,en,Chateraise-minami
+シルバータウン岩井前,ja,シルバータウン岩井前
+シルバータウン岩井前,ja-Hrkt,しるばーたうんいわいまえ
+シルバータウン岩井前,en,Silver Town Iwai-mae
+スーパービバホーム,ja,スーパービバホーム
+スーパービバホーム,ja-Hrkt,すーぱーびばほーむ
+スーパービバホーム,en,Supermarket Viva Home
+スーパー三心（芥見店）,ja,スーパー三心（芥見店）
+スーパー三心（芥見店）,ja-Hrkt,すーぱーさんしん
+スーパー三心（芥見店）,en,Supermarket Sanshin
+スーパー三心（西郷店）,ja,スーパー三心（西郷店）
+スーパー三心（西郷店）,ja-Hrkt,すーぱーさんしん
+スーパー三心（西郷店）,en,Supermarket Sanshin
+スーパー三心【廃止】,ja,スーパー三心【廃止】
+スーパー三心【廃止】,ja-Hrkt,すーぱーさんしん
+スーパー三心【廃止】,en,Supermarket Sanshin
+スーパー三心前,ja,スーパー三心前
+スーパー三心前,ja-Hrkt,すーぱーさんしんまえ
+スーパー三心前,en,Supermarket Sanshin-mae
+スーパー三心東,ja,スーパー三心東
+スーパー三心東,ja-Hrkt,すーぱーさんしんひがし
+スーパー三心東,en,Supermarket Sanshin-higashi
+スーパー三心東（西郷店）,ja,スーパー三心東（西郷店）
+スーパー三心東（西郷店）,ja-Hrkt,すーぱーさんしんひがし
+スーパー三心東（西郷店）,en,Supermarket Sanshin-higashi
+スギ薬局粟野東店,ja,スギ薬局粟野東店
+スギ薬局粟野東店,ja-Hrkt,すぎやっきょくあわのひがしてん
+スギ薬局粟野東店,en,Sugiyakkyoku Awanohigashiten
+すし石松前,ja,すし石松前
+すし石松前,ja-Hrkt,すしいしまつまえ
+すし石松前,en,Sushi Ishimatsu-mae
+セブンイレブン,ja,セブンイレブン
+セブンイレブン,ja-Hrkt,せぶんいれぶん
+セブンイレブン,en,SEVEN-ELEVEN 
+セブンイレブン東,ja,セブンイレブン東
+セブンイレブン東,ja-Hrkt,せぶんいれぶんひがし
+セブンイレブン東,en,SEVEN-ELEVEN-higashi
+たかはし整形外科前,ja,たかはし整形外科前
+たかはし整形外科前,ja-Hrkt,たかはしせいけいげかまえ
+たかはし整形外科前,en,Takahashi Seikeigeka-mae
+たかやま接骨院前,ja,たかやま接骨院前
+たかやま接骨院前,ja-Hrkt,たかやませっこついんまえ
+たかやま接骨院前,en,Takayama Sekkotsuin-mae
+たなかクリニック前,ja,たなかクリニック前
+たなかクリニック前,ja-Hrkt,たなかくりにっくまえ
+たなかクリニック前,en,Tanaka Clinic-mae
+トミダヤ三田洞店,ja,トミダヤ三田洞店
+トミダヤ三田洞店,ja-Hrkt,とみだやみたほらてん
+トミダヤ三田洞店,en,Tomidaya Mitahoraten
+トミダヤ島店,ja,トミダヤ島店
+トミダヤ島店,ja-Hrkt,とみだやしまてん
+トミダヤ島店,en,Tomidaya Shimaten
+ドラッグユタカ前,ja,ドラッグユタカ前
+ドラッグユタカ前,ja-Hrkt,どらっぐゆたかまえ
+ドラッグユタカ前,en,Drug Yutaka-mae
+ドルフィンスイミングスクール,ja,ドルフィンスイミングスクール
+ドルフィンスイミングスクール,ja-Hrkt,どるふぃんすいみんぐすくーる
+ドルフィンスイミングスクール,en,Dolphin Swimming School
+ナーシングホーム悠ライフ,ja,ナーシングホーム悠ライフ
+ナーシングホーム悠ライフ,ja-Hrkt,なーしんぐほーむゆうらいふ
+ナーシングホーム悠ライフ,en,Nursing Home Yu Life
+ハイツ宇佐,ja,ハイツ宇佐
+ハイツ宇佐,ja-Hrkt,はいつうさ
+ハイツ宇佐,en,Heights Usa
+はしもと内科,ja,はしもと内科
+はしもと内科,ja-Hrkt,はしもとないか
+はしもと内科,en,Hashimoto Naika
+はしもと内科前,ja,はしもと内科前
+はしもと内科前,ja-Hrkt,はしもとないかまえ
+はしもと内科前,en,Hashimoto Naika-mae
+はやの耳鼻いんこう科前,ja,はやの耳鼻いんこう科前
+はやの耳鼻いんこう科前,ja-Hrkt,はやのじびいんこうかまえ
+はやの耳鼻いんこう科前,en,Hayano Jibiinkoka-mae
+ハローワーク前,ja,ハローワーク前
+ハローワーク前,ja-Hrkt,はろーわーくまえ
+ハローワーク前,en,HelloWork-mae
+バロー三輪店,ja,バロー三輪店
+バロー三輪店,ja-Hrkt,ばろーみわてん
+バロー三輪店,en,Valor Miwaten
+バロー北一色店,ja,バロー北一色店
+バロー北一色店,ja-Hrkt,ばろーきたいっしきてん
+バロー北一色店,en,Valor Kitaisshikiten
+バロー南,ja,バロー南
+バロー南,ja-Hrkt,ばろーみなみ
+バロー南,en,Valor-minami
+バロー岩田店,ja,バロー岩田店
+バロー岩田店,ja-Hrkt,ばろーいわたてん
+バロー岩田店,en,Valor Iwataten
+バロー市橋店前,ja,バロー市橋店前
+バロー市橋店前,ja-Hrkt,ばろーいちはしてんまえ
+バロー市橋店前,en,Valor Ichihashiten-mae
+バロー東,ja,バロー東
+バロー東,ja-Hrkt,ばろーひがし
+バロー東,en,Valor-higashi
+バロー粟野店,ja,バロー粟野店
+バロー粟野店,ja-Hrkt,ばろーあわのてん
+バロー粟野店,en,Valor Awanoten
+バロー粟野店南・岩野田児童センター東,ja,バロー粟野店南・岩野田児童センター東
+バロー粟野店南・岩野田児童センター東,ja-Hrkt,ばろーあわのてんみなみ・いわのだじどうせんたーひがし
+バロー粟野店南・岩野田児童センター東,en,Valor Awanoten-minami/Iwanoda Jido Center-higashi
+バロー芥見店,ja,バロー芥見店
+バロー芥見店,ja-Hrkt,ばろーあくたみてん
+バロー芥見店,en,Valor Akutamiten
+バロー茜部本郷店,ja,バロー茜部本郷店
+バロー茜部本郷店,ja-Hrkt,ばろーあかなべほんごうてん
+バロー茜部本郷店,en,Valor Aakanabehongoten
+バロー鏡島店前,ja,バロー鏡島店前
+バロー鏡島店前,ja-Hrkt,ばろーかがしまてんまえ
+バロー鏡島店前,en,Valor Kagashimaten-mae
+バロー長良店,ja,バロー長良店
+バロー長良店,ja-Hrkt,ばろーながらてん
+バロー長良店,en,Valor Nagaraten
+ピアゴ長良店,ja,ピアゴ長良店
+ピアゴ長良店,ja-Hrkt,ぴあごながらてん
+ピアゴ長良店,en,PIAGO Nagaraten
+ひかり美容院,ja,ひかり美容院
+ひかり美容院,ja-Hrkt,ひかりびよういん
+ひかり美容院,en,Hikari Biyoin
+ファミリーマート中店前,ja,ファミリーマート中店前
+ファミリーマート中店前,ja-Hrkt,ふぁみりーまーとなかてんまえ
+ファミリーマート中店前,en,FamilyMart Nakaten-mae
+ファミリー歯科・黒田内科クリニック南,ja,ファミリー歯科・黒田内科クリニック南
+ファミリー歯科・黒田内科クリニック南,ja-Hrkt,ふぁみりーしか・くろだないかくりにっくみなみ
+ファミリー歯科・黒田内科クリニック南,en,Family Shika/Kuroda Naika Clinic-minami
+ふじの湯・まさき接骨院,ja,ふじの湯・まさき接骨院
+ふじの湯・まさき接骨院,ja-Hrkt,まさきせっこついん
+ふじの湯・まさき接骨院,en,Fujinoyu/Masaki Sekkotsuin
+ぷりんとぴあ前,ja,ぷりんとぴあ前
+ぷりんとぴあ前,ja-Hrkt,ぷりんとぴあまえ
+ぷりんとぴあ前,en,Printopia-mae
+へあーさろんまつお前,ja,へあーさろんまつお前
+へあーさろんまつお前,ja-Hrkt,へあーさろんまつおまえ
+へあーさろんまつお前,en,Hair Salon Matsuo-mae
+ヘルスバンク敷島店,ja,ヘルスバンク敷島店
+ヘルスバンク敷島店,ja-Hrkt,へるすばんくしきしまてん
+ヘルスバンク敷島店,en,HealthBank Shikishimaten
+ほたる橋,ja,ほたる橋
+ほたる橋,ja-Hrkt,ほたるばし
+ほたる橋,en,Hotarubashi(Hotaru Bridge)
+ほっともっと岐阜岩崎店,ja,ほっともっと岐阜岩崎店
+ほっともっと岐阜岩崎店,ja-Hrkt,ほっともっとぎふいわさきてん
+ほっともっと岐阜岩崎店,en,HottoMotto Gifuiwasakiten
+マーサ南口,ja,マーサ南口
+マーサ南口,ja-Hrkt,まーさみなみぐち
+マーサ南口,en,MASA-minamiguchi(MASA-south entrance)
+マーサ東,ja,マーサ東
+マーサ東,ja-Hrkt,まーさひがし
+マーサ東,en,MASA-higashi
+マックスバリュ前,ja,マックスバリュ前
+マックスバリュ前,ja-Hrkt,まっくすばりゅまえ
+マックスバリュ前,en,MaxValu-mae
+マルナカ入舟店,ja,マルナカ入舟店
+マルナカ入舟店,ja-Hrkt,まるなかいりふねてん
+マルナカ入舟店,en,Marunaka Irifuneten
+ミカド前,ja,ミカド前
+ミカド前,ja-Hrkt,みかどまえ
+ミカド前,en,Mikado-mae
+みさとこども園前,ja,みさとこども園前
+みさとこども園前,ja-Hrkt,みさとこどもえんまえ
+みさとこども園前,en,Misato Kodomoen-mae(Misato Kindergarten)
+みどりヶ丘表通り,ja,みどりヶ丘表通り
+みどりヶ丘表通り,ja-Hrkt,みどりがおかおもてどおり
+みどりヶ丘表通り,en,Midorigaoka-omotedori
+みどり病院,ja,みどり病院
+みどり病院,ja-Hrkt,みどりびょういん
+みどり病院,en,Midori Byoin(Midori Hospital)
+みながわクリニック前,ja,みながわクリニック前
+みながわクリニック前,ja-Hrkt,みながわくりにっくまえ
+みながわクリニック前,en,Minagawa Clinic-mae
+ミニストップ,ja,ミニストップ
+ミニストップ,ja-Hrkt,みにすとっぷ
+ミニストップ,en,MINISTOP
+ミワ美容室,ja,ミワ美容室
+ミワ美容室,ja-Hrkt,みわびようしつ
+ミワ美容室,en,Miwa Biyoshitsu
+むつみ幼稚園前,ja,むつみ幼稚園前
+むつみ幼稚園前,ja-Hrkt,むつみようちえんまえ
+むつみ幼稚園前,en,Mutsumi Yochien-mae(Mutsumi Kindergarten)
+メガドンキ前,ja,メガドンキ前
+メガドンキ前,ja-Hrkt,めがどんきまえ
+メガドンキ前,en,MEGA Donki-mae(MEGA Don Quijote)
+メモリアル前,ja,メモリアル前
+メモリアル前,ja-Hrkt,めもりあるまえ
+メモリアル前,en,Memorial-mae
+メモリアル西,ja,メモリアル西
+メモリアル西,ja-Hrkt,めもりあるにし
+メモリアル西,en,Memorial-nishi
+もりおか内科前,ja,もりおか内科前
+もりおか内科前,ja-Hrkt,もりおかないかまえ
+もりおか内科前,en,Morioka Naika-mae
+やないづもえぎの里,ja,やないづもえぎの里
+やないづもえぎの里,ja-Hrkt,やないづもえぎのさと
+やないづもえぎの里,en,Yanaizu Moeginosato
+やまだ整形外科・内科クリニック、柳津生涯学習センター,ja,やまだ整形外科・内科クリニック、柳津生涯学習センター
+やまだ整形外科・内科クリニック、柳津生涯学習センター,ja-Hrkt,やまだせいけいげか・ないかくりにっく　やないづしょうがいがくしゅうせんたー
+やまだ整形外科・内科クリニック、柳津生涯学習センター,en,Yamada Seikeigeka Naika Clinic/Yanaizu Shogaigakushu Center
+ヤマダ電機西,ja,ヤマダ電機西
+ヤマダ電機西,ja-Hrkt,やまだでんきにし
+ヤマダ電機西,en,Yamadadenki-nishi
+よしだファミリークリニック,ja,よしだファミリークリニック
+よしだファミリークリニック,ja-Hrkt,よしだふぁみりーくりにっく
+よしだファミリークリニック,en,Yoshida Family Clinic
+ワコー自動車前,ja,ワコー自動車前
+ワコー自動車前,ja-Hrkt,わこーじどうしゃまえ
+ワコー自動車前,en,Wako Jidosha-mae
+わたなべ内科,ja,わたなべ内科
+わたなべ内科,ja-Hrkt,わたなべないか
+わたなべ内科,en,Watanabe Naika
+七郷クリニック前,ja,七郷クリニック前
+七郷クリニック前,ja-Hrkt,ななさとくりにっくまえ
+七郷クリニック前,en,Nanasato Clinic-mae
+三信町,ja,三信町
+三信町,ja-Hrkt,さんしんちょう
+三信町,en,Sanshincho
+三心・徳兵衛前,ja,三心・徳兵衛前
+三心・徳兵衛前,ja-Hrkt,さんしん・とくべえまえ
+三心・徳兵衛前,en,Sanshin/Tokubee-mae
+三田洞,ja,三田洞
+三田洞,ja-Hrkt,みたほら
+三田洞,en,Mitahora
+三田洞公民館,ja,三田洞公民館
+三田洞公民館,ja-Hrkt,みたほらこうみんかん
+三田洞公民館,en,Mitahora Kominkan
+三田洞団地集会場,ja,三田洞団地集会場
+三田洞団地集会場,ja-Hrkt,みたほらだんちしゅうかいじょう
+三田洞団地集会場,en,Mitahoradanchi Shukaijo
+三田洞大橋,ja,三田洞大橋
+三田洞大橋,ja-Hrkt,みたほらおおはし
+三田洞大橋,en,Mitahora Ohashi
+三田洞東２・３丁目,ja,三田洞東２・３丁目
+三田洞東２・３丁目,ja-Hrkt,みたほらひがしに・さんちょうめ
+三田洞東２・３丁目,en,Mitahorahigashi-ni/sanchome(Mitahorahigashi 2/Mitahorahigashi 3)
+三田洞東公民館,ja,三田洞東公民館
+三田洞東公民館,ja-Hrkt,みたほらひがしこうみんかん
+三田洞東公民館,en,Mitahorahigashi Kominkan
+三田洞神仏温泉,ja,三田洞神仏温泉
+三田洞神仏温泉,ja-Hrkt,みたほらしんぶつおんせん
+三田洞神仏温泉,en,Mitahora Shimbutsu Onsen
+三田洞自動車学校口,ja,三田洞自動車学校口
+三田洞自動車学校口,ja-Hrkt,みたほらじどうしゃがっこうぐち
+三田洞自動車学校口,en,Mitahora Jidoshagakko-guchi
+三田洞郵便局前,ja,三田洞郵便局前
+三田洞郵便局前,ja-Hrkt,みたほらゆうびんきょくまえ
+三田洞郵便局前,en,Mitahora Yubinkyoku-mae(Mitahora Post Office)
+三里小学校前,ja,三里小学校前
+三里小学校前,ja-Hrkt,みさとしょうがっこうまえ
+三里小学校前,en,Misato Shogakko-mae(Misato Elementary School)
+三里診療所前,ja,三里診療所前
+三里診療所前,ja-Hrkt,みさとしんりょうじょまえ
+三里診療所前,en,Misato Shinryojo-mae
+上中野,ja,上中野
+上中野,ja-Hrkt,かみなかの
+上中野,en,Kaminakano
+上尻毛・川部６丁目,ja,上尻毛・川部６丁目
+上尻毛・川部６丁目,ja-Hrkt,かみしっけ・かわべろくちょうめ
+上尻毛・川部６丁目,en,Kamishikke/Kawabe-rokuchome(Kawabe 6)
+上尻毛八幡,ja,上尻毛八幡
+上尻毛八幡,ja-Hrkt,かみしっけはちまん
+上尻毛八幡,en,Kamishikke Hachiman
+上尻毛日吉,ja,上尻毛日吉
+上尻毛日吉,ja-Hrkt,かみしっけひよし
+上尻毛日吉,en,Kamishikke Hiyoshi
+上川手東,ja,上川手東
+上川手東,ja-Hrkt,かみかわてひがし
+上川手東,en,Kamikawate-higashi
+上川手西,ja,上川手西
+上川手西,ja-Hrkt,かみかわてにし
+上川手西,en,Kamikawate-nishi
+上芥見南町,ja,上芥見南町
+上芥見南町,ja-Hrkt,かみあくたみみなみまち
+上芥見南町,en,Kami Akutami Minamimachi
+下佐波1丁目,ja,下佐波1丁目
+下佐波1丁目,ja-Hrkt,しもさばいっちょうめ
+下佐波1丁目,en,Shimosaba-itchome(Shimosaba 1)
+下奈良2丁目,ja,下奈良2丁目
+下奈良2丁目,ja-Hrkt,しもならにちょうめ
+下奈良2丁目,en,Shimonara-nichome(Shimonara 2)
+下奈良3丁目,ja,下奈良3丁目
+下奈良3丁目,ja-Hrkt,しもならさんちょうめ
+下奈良3丁目,en,Shimonara-sanchome(Shimonara 3)
+下尻毛,ja,下尻毛
+下尻毛,ja-Hrkt,しもしっけ
+下尻毛,en,Shimoshikke
+下岩崎,ja,下岩崎
+下岩崎,ja-Hrkt,しもいわさき
+下岩崎,en,Shimoiwasaki
+下川手バス停前,ja,下川手バス停前
+下川手バス停前,ja-Hrkt,しもかわてばすていまえ
+下川手バス停前,en,Shimokawate Bus stop-mae
+下芥見,ja,下芥見
+下芥見,ja-Hrkt,しもあくたみ
+下芥見,en,Shimoakutami
+下西郷3丁目,ja,下西郷3丁目
+下西郷3丁目,ja-Hrkt,しもさいごうさんちょうめ
+下西郷3丁目,en,Shimosaigo-sanchome(Shimosaigo 3)
+下西郷4丁目,ja,下西郷4丁目
+下西郷4丁目,ja-Hrkt,しもさいごうよんちょうめ
+下西郷4丁目,en,Shimosaigo-yonchome(Shimosaigo 4)
+下鵜飼北,ja,下鵜飼北
+下鵜飼北,ja-Hrkt,しもうかいきた
+下鵜飼北,en,Shimoukai-kita
+不破クリニック前,ja,不破クリニック前
+不破クリニック前,ja-Hrkt,ふわくりにっくまえ
+不破クリニック前,en,Fuwa Clinic-mae
+且格小学校前,ja,且格小学校前
+且格小学校前,ja-Hrkt,しょかくしょうがっこうまえ
+且格小学校前,en,Shokaku Shogakko-mae(Shokaku Elementary School)
+世保,ja,世保
+世保,ja-Hrkt,よやす
+世保,en,Yoyasu
+中佐波,ja,中佐波
+中佐波,ja-Hrkt,なかさば
+中佐波,en,Naka Saba
+中央公園,ja,中央公園
+中央公園,ja-Hrkt,ちゅうおうこうえん
+中央公園,en,Chuo Koen(Chuo Park)
+中央卸売市場,ja,中央卸売市場
+中央卸売市場,ja-Hrkt,ちゅうおうおろしうりしじょう
+中央卸売市場,en,Chuo Oroshiuri Shijo
+中寺町,ja,中寺町
+中寺町,ja-Hrkt,なかでらちょう
+中寺町,en,Nakaderacho
+中山道・水薬師・大手御門,ja,中山道・水薬師・大手御門
+中山道・水薬師・大手御門,ja-Hrkt,なかせんどう・みずやくし・おおてごもん
+中山道・水薬師・大手御門,en,Nakasendo/Mizuyakushi/Otegomon
+中島,ja,中島
+中島,ja-Hrkt,なかしま
+中島,en,Nakashima
+中島1丁目,ja,中島1丁目
+中島1丁目,ja-Hrkt,なかしまいっちょうめ
+中島1丁目,en,Nakashima-itchome(Nakashima 1)
+中島2丁目,ja,中島2丁目
+中島2丁目,ja-Hrkt,なかしまにちょうめ
+中島2丁目,en,Nakashima-nichome(Nakashima 2)
+中島東,ja,中島東
+中島東,ja-Hrkt,なかしまひがし
+中島東,en,Nakashima-higashi
+中川原,ja,中川原
+中川原,ja-Hrkt,なかがわら
+中川原,en,Nakagawara
+中木田,ja,中木田
+中木田,ja-Hrkt,なかきだ
+中木田,en,Naka Kida
+中琴塚,ja,中琴塚
+中琴塚,ja-Hrkt,なかことづか
+中琴塚,en,Naka Kotozuka
+中西郷,ja,中西郷
+中西郷,ja-Hrkt,なかさいごう
+中西郷,en,Nakasaigo
+中野,ja,中野
+中野,ja-Hrkt,なかの
+中野,en,Nakano
+中野畑,ja,中野畑
+中野畑,ja-Hrkt,なかのばた
+中野畑,en,Nakanobata
+中電アパート前,ja,中電アパート前
+中電アパート前,ja-Hrkt,ちゅうでんあぱーとまえ
+中電アパート前,en,Chuden Apartment-mae
+中鶉4丁目,ja,中鶉4丁目
+中鶉4丁目,ja-Hrkt,なかうずらよんちょうめ
+中鶉4丁目,en,Nakauzura-yonchome(Nakauzura 4)
+丸川荘前,ja,丸川荘前
+丸川荘前,ja-Hrkt,まるかわそうまえ
+丸川荘前,en,Marukawaso-mae
+了義寺（半僧坊）前,ja,了義寺（半僧坊）前
+了義寺（半僧坊）前,ja-Hrkt,りょうぎじ（はんそうぼう）まえ
+了義寺（半僧坊）前,en,Ryogiji/Hansobo-mae
+今井整形外科,ja,今井整形外科
+今井整形外科,ja-Hrkt,いまいせいけいげか
+今井整形外科,en,Imai Seikeigeka
+今嶺4丁目,ja,今嶺4丁目
+今嶺4丁目,ja-Hrkt,いまみねよんちょうめ
+今嶺4丁目,en,Imamine-yonchome(Imamine 4)
+今嶺公民館東,ja,今嶺公民館東
+今嶺公民館東,ja-Hrkt,いまみねこうみんかんひがし
+今嶺公民館東,en,Imamine Kominkan-higashi
+今川,ja,今川
+今川,ja-Hrkt,いまがわ
+今川,en,Imagawa
+伊豆神社前,ja,伊豆神社前
+伊豆神社前,ja-Hrkt,いずじんじゃまえ
+伊豆神社前,en,Izujinja-mae
+信長苑東,ja,信長苑東
+信長苑東,ja-Hrkt,のぶながえんひがし
+信長苑東,en,Nobunagaen-higashi
+信長苑西,ja,信長苑西
+信長苑西,ja-Hrkt,のぶながえんにし
+信長苑西,en,Nobunagaen-nishi
+兎ヶ洞中公園,ja,兎ヶ洞中公園
+兎ヶ洞中公園,ja-Hrkt,うさぎがぼらなかこうえん
+兎ヶ洞中公園,en,Usagigabora-naka Koen(Usagigabora-naka Park)
+兎ヶ洞東公園,ja,兎ヶ洞東公園
+兎ヶ洞東公園,ja-Hrkt,うさぎがほらひがしこうえん
+兎ヶ洞東公園,en,Usagigabora-higashi Koen(Usagigabora-higashi Park)
+八代公園,ja,八代公園
+八代公園,ja-Hrkt,やしろこうえん
+八代公園,en,Yashiro Koen(Yashiro Park)
+八幡洞中,ja,八幡洞中
+八幡洞中,ja-Hrkt,はちまんぼらなか
+八幡洞中,en,Hachimambora-naka
+八幡洞入口,ja,八幡洞入口
+八幡洞入口,ja-Hrkt,はちまんぼらいりぐち
+八幡洞入口,en,Hachimambora-iriguchi
+八幡洞団地,ja,八幡洞団地
+八幡洞団地,ja-Hrkt,はちまんぼらだんち
+八幡洞団地,en,Hachimamboradanchi
+八幡町,ja,八幡町
+八幡町,ja-Hrkt,はちまんちょう
+八幡町,en,Hachimancho
+八幡神社前,ja,八幡神社前
+八幡神社前,ja-Hrkt,はちまんじんじゃまえ
+八幡神社前,en,Hachimanjinja-mae
+切通6丁目電話ボックス前,ja,切通6丁目電話ボックス前
+切通6丁目電話ボックス前,ja-Hrkt,きりどおしろくちょうめでんわぼっくすまえ
+切通6丁目電話ボックス前,en,Kiridoshi-rokuchome(Kiridoshi 6)/Denwa Box-mae
+前一色中,ja,前一色中
+前一色中,ja-Hrkt,まえいっしきなか
+前一色中,en,Maeisshiki-naka
+前一色東,ja,前一色東
+前一色東,ja-Hrkt,まえいっしきひがし
+前一色東,en,Maeisshiki-higashi
+前一色西,ja,前一色西
+前一色西,ja-Hrkt,まえいっしきにし
+前一色西,en,Maeisshiki-nishi
+加納中学校,ja,加納中学校
+加納中学校,ja-Hrkt,かのうちゅうがっこう
+加納中学校,en,Kano Chugakko(Kano Junior High School)
+加納中広江町,ja,加納中広江町
+加納中広江町,ja-Hrkt,かのうなかひろえまち
+加納中広江町,en,Kano Nakahiroemachi
+加納中通り,ja,加納中通り
+加納中通り,ja-Hrkt,かのうなかどおり
+加納中通り,en,Kano Nakadori
+加納八幡町,ja,加納八幡町
+加納八幡町,ja-Hrkt,かのうはちまんちょう
+加納八幡町,en,Kano Hachimancho
+加納公園,ja,加納公園
+加納公園,ja-Hrkt,かのうこうえん
+加納公園,en,Kano Koen(Kano Park)
+加納北広江町,ja,加納北広江町
+加納北広江町,ja-Hrkt,かのうきたひろえまち
+加納北広江町,en,Kano Kitahiroemachi
+加納城址,ja,加納城址
+加納城址,ja-Hrkt,かのうじょうし
+加納城址,en,Kanojoshi(Kano Castle Ruin)
+加納堀田町2丁目,ja,加納堀田町2丁目
+加納堀田町2丁目,ja-Hrkt,かのうほったちょうにちょうめ
+加納堀田町2丁目,en,Kano Hottacho-nichome(Kano Hottacho 2)
+加納小学校・加納東公民館,ja,加納小学校・加納東公民館
+加納小学校・加納東公民館,ja-Hrkt,かのうしょうがっこう・かのうひがしこうみんかん
+加納小学校・加納東公民館,en,Kano Shogakko(Kano Elementary School)/Kanohigashi Kominkan
+加納愛宕町,ja,加納愛宕町
+加納愛宕町,ja-Hrkt,かのうあたごちょう
+加納愛宕町,en,Kano Atagocho
+加納神明町・児童センター,ja,加納神明町・児童センター
+加納神明町・児童センター,ja-Hrkt,かのうしんめいちょう・じどうせんたー
+加納神明町・児童センター,en,Kano Shimmeicho/Jidou Center
+加納花ノ木町,ja,加納花ノ木町
+加納花ノ木町,ja-Hrkt,かのうはなのきちょう
+加納花ノ木町,en,Kano Hananokicho
+加納西小学校・公民館,ja,加納西小学校・公民館
+加納西小学校・公民館,ja-Hrkt,かのうにししょうがっこう・こうみんかん
+加納西小学校・公民館,en,Kano Nishi Shogakko(Kano Nishi Elementary School)/Kominkan
+加納鉄砲町5丁目,ja,加納鉄砲町5丁目
+加納鉄砲町5丁目,ja-Hrkt,かのうてっぽうちょうごちょうめ
+加納鉄砲町5丁目,en,Kano Teppocho-gochome(Kano Teppocho 5)
+加納高校,ja,加納高校
+加納高校,ja-Hrkt,かのうこうこう
+加納高校,en,Kano Koko(Kano High School)
+加藤クリニック・セブンイレブン前,ja,加藤クリニック・セブンイレブン前
+加藤クリニック・セブンイレブン前,ja-Hrkt,かとうくりにっく・せぶんいれぶんまえ
+加藤クリニック・セブンイレブン前,en,Kato Clinic/SEVEN-ELEVEN-mae
+加藤医院,ja,加藤医院
+加藤医院,ja-Hrkt,かとういいん
+加藤医院,en,Kato Iin
+加野団地公民館,ja,加野団地公民館
+加野団地公民館,ja-Hrkt,かのだんちこうみんかん
+加野団地公民館,en,Kanodanchi Kominkan
+加野東,ja,加野東
+加野東,ja-Hrkt,かのひがし
+加野東,en,Kano-higashi
+加野郵便局,ja,加野郵便局
+加野郵便局,ja-Hrkt,かのゆうびんきょく
+加野郵便局,en,Kano Yubinkyoku(Kano Post Office)
+北一色,ja,北一色
+北一色,ja-Hrkt,きたいっしき
+北一色,en,Kitaisshiki
+北塚会館,ja,北塚会館
+北塚会館,ja-Hrkt,きたづかかいかん
+北塚会館,en,Kitazuka Kaikan
+北山公園,ja,北山公園
+北山公園,ja-Hrkt,きたやまこうえん
+北山公園,en,Kitayama Koen(Kitayama Park)
+北山東（3丁目）,ja,北山東（3丁目）
+北山東（3丁目）,ja-Hrkt,きたやまひがし（さんちょうめ）
+北山東（3丁目）,en,Kitayama-higashi/sanchome(Kitayama 3)
+北山西（1丁目）,ja,北山西（1丁目）
+北山西（1丁目）,ja-Hrkt,きたやまにし（いっちょうめ）
+北山西（1丁目）,en,Kitayama-nishi/itchome(Kitayama 1)
+北市民健康センター,ja,北市民健康センター
+北市民健康センター,ja-Hrkt,きたしみんけんこうせんたー
+北市民健康センター,en,Kitashimin Kenko Center
+北東部コミセン,ja,北東部コミセン
+北東部コミセン,ja-Hrkt,ほくとうぶこみせん
+北東部コミセン,en,Hokutobu Komisen(Hokutobu Community Center)
+北沖団地・プリント学習社前,ja,北沖団地・プリント学習社前
+北沖団地・プリント学習社前,ja-Hrkt,きたおきだんち・ぷりんとがくしゅうしゃまえ
+北沖団地・プリント学習社前,en,Kitaoki Danchi/Printgakushusha-mae
+北浦,ja,北浦
+北浦,ja-Hrkt,きたうら
+北浦,en,Kitaura
+北消防署前,ja,北消防署前
+北消防署前,ja-Hrkt,きたしょうぼうしょまえ
+北消防署前,en,Kitashobosho-mae
+北琴塚,ja,北琴塚
+北琴塚,ja-Hrkt,きたことづか
+北琴塚,en,Kita Kotozuka
+北部コミセン,ja,北部コミセン
+北部コミセン,ja-Hrkt,ほくぶこみせん
+北部コミセン,en,Hokubu Komisen(Hokubu Community Center)
+十六銀行・コメダ則武店,ja,十六銀行・コメダ則武店
+十六銀行・コメダ則武店,ja-Hrkt,じゅうろくぎんこう・こめだのりたけてん
+十六銀行・コメダ則武店,en,Juroku Ginko(Juroku Bank)/Komeda Noritaketen
+千疋口,ja,千疋口
+千疋口,ja-Hrkt,せんびきくち
+千疋口,en,Sembikikuchi
+千草町,ja,千草町
+千草町,ja-Hrkt,ちくさちょう
+千草町,en,Chikusacho
+南塚4丁目,ja,南塚4丁目
+南塚4丁目,ja-Hrkt,みなみづかよんちょうめ
+南塚4丁目,en,Minamizuka-yonchome(Minamizuka 4)
+南山2・3丁目,ja,南山2・3丁目
+南山2・3丁目,ja-Hrkt,みなみやまに・さんちょうめ
+南山2・3丁目,en,Minamiyama-ni/sanchome(Minamiyama 2/Minamiyama 3)
+南市民健康センター,ja,南市民健康センター
+南市民健康センター,ja-Hrkt,みなみしみんけんこうせんたー
+南市民健康センター,en,Minamishimin Kenko Center
+南沢公民館前,ja,南沢公民館前
+南沢公民館前,ja-Hrkt,みなみさわこうみんかんまえ
+南沢公民館前,en,Minamisawa Kominkan-mae
+南部コミセン,ja,南部コミセン
+南部コミセン,ja-Hrkt,なんぶこみせん
+南部コミセン,en,Nambu Komisen(Nambu Community Center)
+南部西事務所前,ja,南部西事務所前
+南部西事務所前,ja-Hrkt,なんぶにしじむしょまえ
+南部西事務所前,en,Nambunishi Jimusho(Southwest Office)
+南鶉3丁目,ja,南鶉3丁目
+南鶉3丁目,ja-Hrkt,みなみうずらさんちょうめ
+南鶉3丁目,en,Minamiuzura-sanchome(Minamiuzura 3)
+厚八グランド北,ja,厚八グランド北
+厚八グランド北,ja-Hrkt,こうはちぐらんどきた
+厚八グランド北,en,Kohachi Ground-kita
+厚見中学校前,ja,厚見中学校前
+厚見中学校前,ja-Hrkt,あつみちゅうがっこうまえ
+厚見中学校前,en,Atsumi Chugakko-mae(Atsumi Junior High School)
+厚見公民館前,ja,厚見公民館前
+厚見公民館前,ja-Hrkt,あつみこうみんかんまえ
+厚見公民館前,en,Atsumi Kominkan-mae
+厳美郵便局前,ja,厳美郵便局前
+厳美郵便局前,ja-Hrkt,いずみゆうびんきょくまえ
+厳美郵便局前,en,Izumi Yubinkyoku-mae(Izumi Post Office)
+又丸,ja,又丸
+又丸,ja-Hrkt,またまる
+又丸,en,Matamaru
+又丸柳町,ja,又丸柳町
+又丸柳町,ja-Hrkt,またまるやなぎまち
+又丸柳町,en,Matamaruyanagimachi
+友瀬・子正賀,ja,友瀬・子正賀
+友瀬・子正賀,ja-Hrkt,ともせ・こしょうが
+友瀬・子正賀,en,Tomose/Koshoga
+名鉄岐阜駅前,ja,名鉄岐阜駅前
+名鉄岐阜駅前,ja-Hrkt,めいてつぎふえきまえ
+名鉄岐阜駅前,en,MEITETSU GIFU eki-mae(MEITETSU GIFU Sta.)
+名鉄柳津駅,ja,名鉄柳津駅
+名鉄柳津駅,ja-Hrkt,めいてつやないづえき
+名鉄柳津駅,en,MEITETSU YANAIZU eki(YANAIZU Sta.)
+団地７棟南,ja,団地７棟南
+団地７棟南,ja-Hrkt,だんちななとうみなみ
+団地７棟南,en,Danchi Nanato-minami
+図書館美術館駐車場前,ja,図書館美術館駐車場前
+図書館美術館駐車場前,ja-Hrkt,としょかんびじゅつかんちゅうしゃじょうまえ
+図書館美術館駐車場前,en,Toshokan Bijutsukan Chushajo-mae
+地蔵堂前,ja,地蔵堂前
+地蔵堂前,ja-Hrkt,じぞうどうまえ
+地蔵堂前,en,Jizodo-mae
+坂巻,ja,坂巻
+坂巻,ja-Hrkt,さかまき
+坂巻,en,Sakamaki
+城北高校前,ja,城北高校前
+城北高校前,ja-Hrkt,じょうほくこうこうまえ
+城北高校前,en,Johoku Koko-mae(Johoku High School)
+城北高校南口,ja,城北高校南口
+城北高校南口,ja-Hrkt,じょうほくこうこうみなみぐち
+城北高校南口,en,Johoku Koko Minamiguchi(Johoku High School)
+城東通り5丁目,ja,城東通り5丁目
+城東通り5丁目,ja-Hrkt,じょうとうどおりごちょうめ
+城東通り5丁目,en,Jotodori-gochome(Jotodori 5)
+城美南公園前,ja,城美南公園前
+城美南公園前,ja-Hrkt,しろみみなみこうえんまえ
+城美南公園前,en,Shiromiminami Koen-mae(Shiromiminami Park)
+城美台公民館前,ja,城美台公民館前
+城美台公民館前,ja-Hrkt,しろみだいこうみんかんまえ
+城美台公民館前,en,Shiromidai Kominkan-mae
+城美台北,ja,城美台北
+城美台北,ja-Hrkt,しろみだいきた
+城美台北,en,Shiromidai-kita
+城美台西,ja,城美台西
+城美台西,ja-Hrkt,しろみだいにし
+城美台西,en,Shiromidai-nishi
+堀江畳店前,ja,堀江畳店前
+堀江畳店前,ja-Hrkt,ほりえたたみてんまえ
+堀江畳店前,en,Horie Tatamiten-mae
+堂後,ja,堂後
+堂後,ja-Hrkt,どううしろ
+堂後,en,Doushiro
+堤,ja,堤
+堤,ja-Hrkt,つつみ
+堤,en,Tsutsumi
+増田医院前,ja,増田医院前
+増田医院前,ja-Hrkt,ますだいいんまえ
+増田医院前,en,Masuda Iin-mae
+多田精機前,ja,多田精機前
+多田精機前,ja-Hrkt,ただせいきまえ
+多田精機前,en,Tadaseiki-mae
+大前医院前,ja,大前医院前
+大前医院前,ja-Hrkt,おおまえいいんまえ
+大前医院前,en,Omae Iin-mae
+大洞保育園,ja,大洞保育園
+大洞保育園,ja-Hrkt,おおぼらほいくえん
+大洞保育園,en,Obora Hoikuen(Obora Kindergarten)
+大洞岐協苑,ja,大洞岐協苑
+大洞岐協苑,ja-Hrkt,おおぼらぎきょうえん
+大洞岐協苑,en,Obora Gikyoen
+大洞接骨院前,ja,大洞接骨院前
+大洞接骨院前,ja-Hrkt,おおぼらせっこついんまえ
+大洞接骨院前,en,Obora Sekkotsuin-mae
+大洞西,ja,大洞西
+大洞西,ja-Hrkt,おおぼらにし
+大洞西,en,Obora-nishi
+大洞郵便局南,ja,大洞郵便局南
+大洞郵便局南,ja-Hrkt,おおぼらゆうびんきょくみなみ
+大洞郵便局南,en,Obora Yubinkyoku-minami(Obora Post Office-minami)
+大洞郵便局東,ja,大洞郵便局東
+大洞郵便局東,ja-Hrkt,おおぼらゆうびんきょくひがし
+大洞郵便局東,en,Obora Yubinkyoku-higashi(Obora Post Office-higashi)
+大福町8丁目,ja,大福町8丁目
+大福町8丁目,ja-Hrkt,だいふくちょうはっちょうめ
+大福町8丁目,en,Daifukucho-hatchome(Daifukucho 8)
+大脇森北冷機前,ja,大脇森北冷機前
+大脇森北冷機前,ja-Hrkt,おおわきもりきたれいきまえ
+大脇森北冷機前,en,Owaki Morikita Reiki-mae
+大船2丁目,ja,大船2丁目
+大船2丁目,ja-Hrkt,おおぶねにちょうめ
+大船2丁目,en,Obune-nichome(Obune 2)
+大船東,ja,大船東
+大船東,ja-Hrkt,おおぶねひがし
+大船東,en,Obune-higashi
+大蔵台公民館前,ja,大蔵台公民館前
+大蔵台公民館前,ja-Hrkt,おおくらだいこうみんかんまえ
+大蔵台公民館前,en,Okuradai Kominkan-mae
+大蔵台団地西,ja,大蔵台団地西
+大蔵台団地西,ja-Hrkt,おおくらだいだんちにし
+大蔵台団地西,en,Okuradai Danchi-nishi
+大野2丁目東【廃止】,ja,大野2丁目東【廃止】
+大野2丁目東【廃止】,ja-Hrkt,おおのにちょうめひがし
+大野2丁目東【廃止】,en,Ono-nichome-higashi(Ono 2 higashi)
+大野2丁目西,ja,大野2丁目西
+大野2丁目西,ja-Hrkt,おおのにちょうめにし
+大野2丁目西,en,Ono-nichome-nishi(Ono 2 nishi)
+天満神社西,ja,天満神社西
+天満神社西,ja-Hrkt,てんまんじんじゃにし
+天満神社西,en,Temmanjinja-nishi
+天野,ja,天野
+天野,ja-Hrkt,てんの
+天野,en,Tenno
+太郎丸団地,ja,太郎丸団地
+太郎丸団地,ja-Hrkt,たろうまるだんち
+太郎丸団地,en,Taromaru Danchi
+子正賀西,ja,子正賀西
+子正賀西,ja-Hrkt,こしょうがにし
+子正賀西,en,Koshoga-nishi
+宇佐住吉町,ja,宇佐住吉町
+宇佐住吉町,ja-Hrkt,うさすみよしちょう
+宇佐住吉町,en,Usa Sumiyoshicho
+宇佐東町,ja,宇佐東町
+宇佐東町,ja-Hrkt,うさひがしまち
+宇佐東町,en,Usa Higashimachi
+安壮接骨院前,ja,安壮接骨院前
+安壮接骨院前,ja-Hrkt,あんそうせっこついんまえ
+安壮接骨院前,en,Anso Sekkotsuin-mae
+安江内科クリニック前,ja,安江内科クリニック前
+安江内科クリニック前,ja-Hrkt,やすえないかくりにっくまえ
+安江内科クリニック前,en,Yasuenaika Clinic-mae
+安江病院,ja,安江病院
+安江病院,ja-Hrkt,やすえびょういん
+安江病院,en,Yasue Byoin(Yasue Hospital)
+安達整形外科,ja,安達整形外科
+安達整形外科,ja-Hrkt,あだちせいけいげか
+安達整形外科,en,Adachi Seikeigeka
+宝来町,ja,宝来町
+宝来町,ja-Hrkt,ほうらいちょう
+宝来町,en,Houraicho
+宮上ふれあい会館西,ja,宮上ふれあい会館西
+宮上ふれあい会館西,ja-Hrkt,みやかみふれあいかいかんにし
+宮上ふれあい会館西,en,Miyakami Fureai Kaikan-nishi
+宮下,ja,宮下
+宮下,ja-Hrkt,みやしも
+宮下,en,Miyashimo
+宮北町,ja,宮北町
+宮北町,ja-Hrkt,みやきたちょう
+宮北町,en,Miyakitacho
+寺内,ja,寺内
+寺内,ja-Hrkt,じない
+寺内,en,Jinai
+寺内橋西,ja,寺内橋西
+寺内橋西,ja-Hrkt,じないばしにし
+寺内橋西,en,Jinaibashi-nishi(Jinai Bridge)
+寿楽苑前,ja,寿楽苑前
+寿楽苑前,ja-Hrkt,じゅらくえんまえ
+寿楽苑前,en,Jurakuen-mae
+小坂町,ja,小坂町
+小坂町,ja-Hrkt,こさかまち
+小坂町,en,Kosakamachi
+小島内科クリニック,ja,小島内科クリニック
+小島内科クリニック,ja-Hrkt,こじまないかくりにっく
+小島内科クリニック,en,Kojima Naika Clinic
+小島製作所,ja,小島製作所
+小島製作所,ja-Hrkt,こじませいさくしょ
+小島製作所,en,Kojima Seisakusho
+小野,ja,小野
+小野,ja-Hrkt,この
+小野,en,Kono
+小野北,ja,小野北
+小野北,ja-Hrkt,このきた
+小野北,en,Kono-kita
+小野東,ja,小野東
+小野東,ja-Hrkt,このひがし
+小野東,en,Kono-higashi
+尻毛１丁目,ja,尻毛１丁目
+尻毛１丁目,ja-Hrkt,しっけいっちょうめ
+尻毛１丁目,en,Shikke-itchome(Shikke 1)
+尻毛２丁目,ja,尻毛２丁目
+尻毛２丁目,ja-Hrkt,しっけにちょうめ
+尻毛２丁目,en,Shikke-nichome(Shikke 2)
+尾崎花園前,ja,尾崎花園前
+尾崎花園前,ja-Hrkt,おざきはなえんまえ
+尾崎花園前,en,Ozaki Hanaen-mae
+山内ホスピタル北,ja,山内ホスピタル北
+山内ホスピタル北,ja-Hrkt,やまうちほすぴたるきた
+山内ホスピタル北,en,Yamauchi Hospital-kita
+山吹町2丁目,ja,山吹町2丁目
+山吹町2丁目,ja-Hrkt,やまぶきちょうにちょうめ
+山吹町2丁目,en,Yamabukicho-nichome(Yamabukicho 2)
+山田メディカルクリニック,ja,山田メディカルクリニック
+山田メディカルクリニック,ja-Hrkt,やまだめでぃかるくりにっく
+山田メディカルクリニック,en,Yamada Medical Clinic
+山陽町,ja,山陽町
+山陽町,ja-Hrkt,さんようちょう
+山陽町,en,Sanyocho
+岐北厚生病院,ja,岐北厚生病院
+岐北厚生病院,ja-Hrkt,ぎほくこうせいびょういん
+岐北厚生病院,en,Gihoku Kosei Byoin(Gihoku Kosei Hospital)
+岐南工業高校,ja,岐南工業高校
+岐南工業高校,ja-Hrkt,ぎなんこうぎょうこうこう
+岐南工業高校,en,Ginankogyo Koko(Ginankogyo High School)
+岐大口,ja,岐大口
+岐大口,ja-Hrkt,ぎだいぐち
+岐大口,en,Gidai-guchi
+岐山高校南,ja,岐山高校南
+岐山高校南,ja-Hrkt,ぎざんこうこうみなみ
+岐山高校南,en,Gizankoko-minami(Gizan High School)
+岐阜トヨタ前,ja,岐阜トヨタ前
+岐阜トヨタ前,ja-Hrkt,ぎふとよたまえ
+岐阜トヨタ前,en,Gifu TOYOTA-mae
+岐阜ハートセンター前,ja,岐阜ハートセンター前
+岐阜ハートセンター前,ja-Hrkt,ぎふはーとせんたーまえ
+岐阜ハートセンター前,en,Gifu Heart Center-mae
+岐阜ファミリーパーク,ja,岐阜ファミリーパーク
+岐阜ファミリーパーク,ja-Hrkt,ぎふふぁみりーぱーく
+岐阜ファミリーパーク,en,Gifu Family Park
+岐阜メイツクリニック北,ja,岐阜メイツクリニック北
+岐阜メイツクリニック北,ja-Hrkt,ぎふめいつくりにっくきた
+岐阜メイツクリニック北,en,Gifu Mates Clinic-kita
+岐阜メモリアルセンター,ja,岐阜メモリアルセンター
+岐阜メモリアルセンター,ja-Hrkt,ぎふめもりあるせんたー
+岐阜メモリアルセンター,en,Gifu Memorial Center
+岐阜信用金庫うずら支店北,ja,岐阜信用金庫うずら支店北
+岐阜信用金庫うずら支店北,ja-Hrkt,ぎふしんようきんこうずらしてんきた
+岐阜信用金庫うずら支店北,en,Gifushinyokinko Uzurashiten-kita
+岐阜信用金庫切通支店,ja,岐阜信用金庫切通支店
+岐阜信用金庫切通支店,ja-Hrkt,ぎふしんようきんこきりどおししてん
+岐阜信用金庫切通支店,en,Gifushinyokinko Kiridoshi-shiten
+岐阜信用金庫前,ja,岐阜信用金庫前
+岐阜信用金庫前,ja-Hrkt,ぎふしんようきんこまえ
+岐阜信用金庫前,en,Gifushinyokinko-mae
+岐阜南病院北・㈱カネヒロ前,ja,岐阜南病院北・㈱カネヒロ前
+岐阜南病院北・㈱カネヒロ前,ja-Hrkt,ぎふみなみびょういんきた・かぶしきがいしゃかねひろまえ
+岐阜南病院北・㈱カネヒロ前,en,Gifu Minami Byoin-kita(Gifu Minami Hospital)/Kabushikigaisha Kanehiro-mae
+岐阜外科,ja,岐阜外科
+岐阜外科,ja-Hrkt,ぎふげか
+岐阜外科,en,Gifugeka
+岐阜大学,ja,岐阜大学
+岐阜大学,ja-Hrkt,ぎふだいがく
+岐阜大学,en,Gifu Daigaku(Gifu Univ.)
+岐阜大学病院,ja,岐阜大学病院
+岐阜大学病院,ja-Hrkt,ぎふだいがくびょういん
+岐阜大学病院,en,Gifudaigaku Byoin(Gifu Univ. Hospital)
+岐阜工芸北,ja,岐阜工芸北
+岐阜工芸北,ja-Hrkt,ぎふこうげいきた
+岐阜工芸北,en,Gifukogei-kita
+岐阜市斎苑前,ja,岐阜市斎苑前
+岐阜市斎苑前,ja-Hrkt,ぎふしさいえんまえ
+岐阜市斎苑前,en,Gifushi Saien-mae(Gifushi Crematorium)
+岐阜曙郵便局,ja,岐阜曙郵便局
+岐阜曙郵便局,ja-Hrkt,ぎふあけぼのゆうびんきょく
+岐阜曙郵便局,en,Gifu Akebono Yubinkyoku(Gifu AkebonoPost Office)
+岐阜清流病院,ja,岐阜清流病院
+岐阜清流病院,ja-Hrkt,ぎふせいりゅうびょういん
+岐阜清流病院,en,Gifu Seiryu Byoin(Gifu Seiryu Hospital)
+岐阜産業会館,ja,岐阜産業会館
+岐阜産業会館,ja-Hrkt,ぎふさんぎょうかいかん
+岐阜産業会館,en,Gifusangyo Kaikan
+岐阜病院前,ja,岐阜病院前
+岐阜病院前,ja-Hrkt,ぎふびょういんまえ
+岐阜病院前,en,Gifu Byoin-mae(Gifu Hospital)
+岐阜病院南,ja,岐阜病院南
+岐阜病院南,ja-Hrkt,ぎふびょういんみなみ
+岐阜病院南,en,Gifu Byoin-minami(Gifu Hospital-minami)
+岐阜聖徳学園大学,ja,岐阜聖徳学園大学
+岐阜聖徳学園大学,ja-Hrkt,ぎふしょうとくがくえんだいがく
+岐阜聖徳学園大学,en,Gifushotokugakuen Daigaku(Gifushotokugakuen Univ.)
+岐阜西改田簡易郵便局前,ja,岐阜西改田簡易郵便局前
+岐阜西改田簡易郵便局前,ja-Hrkt,ぎふにしかいでんかんいゆうびんきょくまえ
+岐阜西改田簡易郵便局前,en,Gifu Nishikaiden Kaniyubinkyoku-mae(Gifu Nishikaiden Kani Post Office)
+岐阜赤十字病院,ja,岐阜赤十字病院
+岐阜赤十字病院,ja-Hrkt,ぎふせきじゅうじびょういん
+岐阜赤十字病院,en,Gifu Sekijuji Byoin(Gifu Sekijuji Hospital)
+岐阜電材前,ja,岐阜電材前
+岐阜電材前,ja-Hrkt,ぎふでんざいまえ
+岐阜電材前,en,Gifudenzai-mae
+岡本・中島米穀前,ja,岡本・中島米穀前
+岡本・中島米穀前,ja-Hrkt,おかもと・なかじまべいこくまえ
+岡本・中島米穀前,en,Okamoto/Nakajima Beikoku-mae
+岩井中公民館前,ja,岩井中公民館前
+岩井中公民館前,ja-Hrkt,いわいなかこうみんかんまえ
+岩井中公民館前,en,Iwainaka Kominkan-mae
+岩井団地入り口,ja,岩井団地入り口
+岩井団地入り口,ja-Hrkt,いわいだんちいりぐち
+岩井団地入り口,en,Iwaidanchi-iriguchi
+岩井団地東,ja,岩井団地東
+岩井団地東,ja-Hrkt,いわいだんちひがし
+岩井団地東,en,Iwaidanchi-higashi
+岩井団地西,ja,岩井団地西
+岩井団地西,ja-Hrkt,いわいだんちにし
+岩井団地西,en,Iwaidanchi-nishi
+岩井東公民館,ja,岩井東公民館
+岩井東公民館,ja-Hrkt,いわいひがしこうみんかん
+岩井東公民館,en,Iwaihigashi Kominkan
+岩地1丁目中央,ja,岩地1丁目中央
+岩地1丁目中央,ja-Hrkt,いわちいっちょうめちゅうおう
+岩地1丁目中央,en,Iwachi-itchome-chuo(Iwachi 1)
+岩崎山手,ja,岩崎山手
+岩崎山手,ja-Hrkt,いわさきやまて
+岩崎山手,en,Iwasaki Yamate
+岩崎戸羽川,ja,岩崎戸羽川
+岩崎戸羽川,ja-Hrkt,いわさきとばがわ
+岩崎戸羽川,en,Iwasaki Tobagawa
+岩崎桜本,ja,岩崎桜本
+岩崎桜本,ja-Hrkt,いわさきさくらもと
+岩崎桜本,en,Iwasaki Sakuramoto
+岩崎畑中,ja,岩崎畑中
+岩崎畑中,ja-Hrkt,いわさきはたなか
+岩崎畑中,en,Iwasaki Hatanaka
+岩田（東）,ja,岩田（東）
+岩田（東）,ja-Hrkt,いわた（ひがし）
+岩田（東）,en,Iwata-higashi
+岩田（西）,ja,岩田（西）
+岩田（西）,ja-Hrkt,いわた（にし）
+岩田（西）,en,Iwata-nishi
+岩田坂北町,ja,岩田坂北町
+岩田坂北町,ja-Hrkt,いわたざかきたまち
+岩田坂北町,en,Iwatazaka Kitamachi
+岩田坂南町,ja,岩田坂南町
+岩田坂南町,ja-Hrkt,いわたざかみなみまち
+岩田坂南町,en,Iwatazaka Minamimachi
+岩田東３丁目,ja,岩田東３丁目
+岩田東３丁目,ja-Hrkt,いわたひがしさんちょうめ
+岩田東３丁目,en,Iwatahigashi-sanchome(Iwatahigashi 3)
+岩砂病院・岩砂マタニティ【廃止】,ja,岩砂病院・岩砂マタニティ【廃止】
+岩砂病院・岩砂マタニティ【廃止】,ja-Hrkt,いわさびょういん・いわさまたにてぃ
+岩砂病院・岩砂マタニティ【廃止】,en,Iwasa Byoin(Iwasa Hospital)/Iwasa Maternity
+岩砂病院・波多野医院,ja,岩砂病院・波多野医院
+岩砂病院・波多野医院,ja-Hrkt,いわさびょういん・はたのいいん
+岩砂病院・波多野医院,en,Iwasa Byoin(Iwasa Hospital)/Hatano Iin
+岩野田公園,ja,岩野田公園
+岩野田公園,ja-Hrkt,いわのだこうえん
+岩野田公園,en,Iwanoda Koen(Iwanoda Park)
+島中央公園前,ja,島中央公園前
+島中央公園前,ja-Hrkt,しまちゅうおうこうえんまえ
+島中央公園前,en,Shimachuo Koen-mae(Shimachuo Park)
+島新町,ja,島新町
+島新町,ja-Hrkt,しましんまち
+島新町,en,Shimashimmachi
+島栄町2丁目,ja,島栄町2丁目
+島栄町2丁目,ja-Hrkt,しまさかえまちにちょうめ
+島栄町2丁目,en,Shimasakaemachi-nichome(Shimasakaemachi 2)
+嵯峨,ja,嵯峨
+嵯峨,ja-Hrkt,さが
+嵯峨,en,Saga
+嵯峨野前,ja,嵯峨野前
+嵯峨野前,ja-Hrkt,さがのまえ
+嵯峨野前,en,Sagano-mae
+川東,ja,川東
+川東,ja-Hrkt,かわひがし
+川東,en,Kawahigashi
+川東下,ja,川東下
+川東下,ja-Hrkt,かわひがししも
+川東下,en,Kawahigashi-shimo
+川部２丁目,ja,川部２丁目
+川部２丁目,ja-Hrkt,かわべにちょうめ
+川部２丁目,en,Kawabe-nichome(Kawabe 2)
+川部５丁目,ja,川部５丁目
+川部５丁目,ja-Hrkt,かわべごちょうめ
+川部５丁目,en,Kawabe-gochome(Kawabe 5)
+市橋4丁目,ja,市橋4丁目
+市橋4丁目,ja-Hrkt,いちはしよんちょうめ
+市橋4丁目,en,Ichihashi-yonchome(Ichihashi 4)
+市橋コミセン前,ja,市橋コミセン前
+市橋コミセン前,ja-Hrkt,いちはしこみせんまえ
+市橋コミセン前,en,Ichihashi Komisen-mae(Ichihashi Community Center)
+市橋小学校,ja,市橋小学校
+市橋小学校,ja-Hrkt,いちはししょうがっこう
+市橋小学校,en,Ichihashi Shogakko(Ichihashi Elementary School)
+市民病院前,ja,市民病院前
+市民病院前,ja-Hrkt,しみんびょういんまえ
+市民病院前,en,Shimin Byoin-mae(Gifu Municipal Hospital)
+市民病院北口,ja,市民病院北口
+市民病院北口,ja-Hrkt,しみんびょういんきたぐち
+市民病院北口,en,Shimin Byoin-kitaguchi(Gifu Municipal Hospital)
+市立岐商前,ja,市立岐商前
+市立岐商前,ja-Hrkt,しりつぎしょうまえ
+市立岐商前,en,Shiritsu Gisho-mae(Gifu Municipal Commercial&Business High School)
+市立岐商東,ja,市立岐商東
+市立岐商東,ja-Hrkt,しりつぎしょうひがし
+市立岐商東,en,Shiritsu Gisho-higashi
+常磐保育園,ja,常磐保育園
+常磐保育園,ja-Hrkt,ときわほいくえん
+常磐保育園,en,Tokiwa Hoikuen(Tokiwa Kindergarten)
+常磐松,ja,常磐松
+常磐松,ja-Hrkt,ときわまつ
+常磐松,en,Tokiwamatsu
+平和堂,ja,平和堂
+平和堂,ja-Hrkt,へいわどう
+平和堂,en,HEIWADO
+平成調剤薬局前,ja,平成調剤薬局前
+平成調剤薬局前,ja-Hrkt,へいせいちょうざいやっきょくまえ
+平成調剤薬局前,en,Heisei Chozai Yakkyoku-mae
+平野内科クリニック,ja,平野内科クリニック
+平野内科クリニック,ja-Hrkt,ひらのないかくりにっく
+平野内科クリニック,en,Hirano Naika Clinic
+平野総合病院,ja,平野総合病院
+平野総合病院,ja-Hrkt,ひらのそうごうびょういん
+平野総合病院,en,Hirano Sogo Byoin(Hirano General Hospital)
+床屋前,ja,床屋前
+床屋前,ja-Hrkt,とこやまえ
+床屋前,en,Tokoya-mae
+庵町,ja,庵町
+庵町,ja-Hrkt,いおりまち
+庵町,en,Iorimachi
+延算寺東院,ja,延算寺東院
+延算寺東院,ja-Hrkt,えんさんじとういん
+延算寺東院,en,Ensanji Toin
+弘法前,ja,弘法前
+弘法前,ja-Hrkt,こうぼうまえ
+弘法前,en,Kobo-mae
+後藤クリニック,ja,後藤クリニック
+後藤クリニック,ja-Hrkt,ごとうくりにっく
+後藤クリニック,en,Goto Clinic
+後藤家・若宮郵便局,ja,後藤家・若宮郵便局
+後藤家・若宮郵便局,ja-Hrkt,ごとうや・わかみやゆうびんきょく
+後藤家・若宮郵便局,en,Gotoya/Wakamiya Yubinkyoku(Wakamiya Post Office)
+御望西,ja,御望西
+御望西,ja-Hrkt,ごもにし
+御望西,en,Gomo-nishi
+忠節（北）,ja,忠節（北）
+忠節（北）,ja-Hrkt,ちゅうせつ（きた）
+忠節（北）,en,Chusetsu-kita
+忠節（南）,ja,忠節（南）
+忠節（南）,ja-Hrkt,ちゅうせつ（みなみ）
+忠節（南）,en,Chusetsu-minami
+忠節フランテ館,ja,忠節フランテ館
+忠節フランテ館,ja-Hrkt,ちゅうせつふらんてかん
+忠節フランテ館,en,Chusetsu Frantekan
+恵比寿神社,ja,恵比寿神社
+恵比寿神社,ja-Hrkt,えびすじんじゃ
+恵比寿神社,en,Ebisujinja
+愛宕住宅前（山田商会前）,ja,愛宕住宅前（山田商会前）
+愛宕住宅前（山田商会前）,ja-Hrkt,あたごじゅうたくまえ（やまだしょうかいまえ）
+愛宕住宅前（山田商会前）,en,Atago Jutaku-mae/Yamada Shokai-mae
+成瀬クリニック前,ja,成瀬クリニック前
+成瀬クリニック前,ja-Hrkt,なるせくりにっくまえ
+成瀬クリニック前,en,Naruse Clinic-mae
+戸羽川,ja,戸羽川
+戸羽川,ja-Hrkt,とばがわ
+戸羽川,en,Tobagawa
+手力公民館,ja,手力公民館
+手力公民館,ja-Hrkt,てぢからこうみんかん
+手力公民館,en,Tejikara Kominkan
+操レディスホスピタル,ja,操レディスホスピタル
+操レディスホスピタル,ja-Hrkt,みさおれでぃすほすぴたる
+操レディスホスピタル,en,Misao Ladies Hospital
+整形外科城南病院前,ja,整形外科城南病院前
+整形外科城南病院前,ja-Hrkt,せいけいげかじょうなんびょういんまえ
+整形外科城南病院前,en,Seikeigeka Jonan Byoin-mae(Jonan Hospital)
+敷島町３丁目,ja,敷島町３丁目
+敷島町３丁目,ja-Hrkt,しきしまちょうさんちょうめ
+敷島町３丁目,en,Shikishimacho-sanchome(Shikishimacho 3)
+新堀公民館前,ja,新堀公民館前
+新堀公民館前,ja-Hrkt,しんほりこうみんかんまえ
+新堀公民館前,en,Shinhori Kominkan-mae
+新屋敷,ja,新屋敷
+新屋敷,ja-Hrkt,しんやしき
+新屋敷,en,Shinyashiki
+新所3丁目,ja,新所3丁目
+新所3丁目,ja-Hrkt,しんしょさんちょうめ
+新所3丁目,en,Shinsho-sanchome(Shinsho 3)
+新田公民館前,ja,新田公民館前
+新田公民館前,ja-Hrkt,しんでんこうみんかんまえ
+新田公民館前,en,Shinden Kominkan-mae
+日の出町,ja,日の出町
+日の出町,ja-Hrkt,ひのでまち
+日の出町,en,Hinodemachi
+日光コミセン,ja,日光コミセン
+日光コミセン,ja-Hrkt,にっこうこみせん
+日光コミセン,en,Nikko Komisen(Nikko Community Center)
+日野保育園前,ja,日野保育園前
+日野保育園前,ja-Hrkt,ひのほいくえんまえ
+日野保育園前,en,Hino Hoikuen-mae(Hino Kindergarten)
+日野南4丁目,ja,日野南4丁目
+日野南4丁目,ja-Hrkt,ひのみなみよんちょうめ
+日野南4丁目,en,Hinominami-yonchome(Hinominami 4)
+日野古墳前,ja,日野古墳前
+日野古墳前,ja-Hrkt,ひのこふんまえ
+日野古墳前,en,Hino Kofun-mae(Hino Ancient Tomb)
+日野小学校前,ja,日野小学校前
+日野小学校前,ja-Hrkt,ひのしょうがっこうまえ
+日野小学校前,en,Hino Shogakko-mae(Hino Elementary School)
+日野恵光前,ja,日野恵光前
+日野恵光前,ja-Hrkt,ひのけいこうまえ
+日野恵光前,en,Hino Keiko-mae
+日野東2丁目,ja,日野東2丁目
+日野東2丁目,ja-Hrkt,ひのひがしにちょうめ
+日野東2丁目,en,Hinohigashi-nichome(Hinohigashi 2)
+日野西3丁目,ja,日野西3丁目
+日野西3丁目,ja-Hrkt,ひのにしさんちょうめ
+日野西3丁目,en,Hinonishi-sanchome(Hinonishi 3)
+日野駐在所前,ja,日野駐在所前
+日野駐在所前,ja-Hrkt,ひのちゅうざいしょまえ
+日野駐在所前,en,Hino Chuzaisho-mae(Hino Police Box)
+早徳病院東,ja,早徳病院東
+早徳病院東,ja-Hrkt,はやとくびょういんひがし
+早徳病院東,en,Hayatoku Byoin-higashi(Hayatoku Hospital)
+早田小学校,ja,早田小学校
+早田小学校,ja-Hrkt,そうでんしょうがっこう
+早田小学校,en,Soden Shogakko(Soden Elementary School)
+早田東公園,ja,早田東公園
+早田東公園,ja-Hrkt,そうでんひがしこうえん
+早田東公園,en,Sodenhigashi Koen(Sodenhigashi Park)
+早田東町,ja,早田東町
+早田東町,ja-Hrkt,そうでんひがしまち
+早田東町,en,Sodenhigashimachi
+早田東町2丁目,ja,早田東町2丁目
+早田東町2丁目,ja-Hrkt,そうでんひがしまちにちょうめ
+早田東町2丁目,en,Sodenhigashimachi-nichome(Sodenhigashimachi 2)
+早田町4丁目,ja,早田町4丁目
+早田町4丁目,ja-Hrkt,そうでんちょうよんちょうめ
+早田町4丁目,en,Sodencho-yonchome(Sodencho 4)
+早田西公園,ja,早田西公園
+早田西公園,ja-Hrkt,そうでんにしこうえん
+早田西公園,en,Sodennishi Koen(Sodennishi Park)
+早田飯店前,ja,早田飯店前
+早田飯店前,ja-Hrkt,そうでんはんてんまえ
+早田飯店前,en,Soden Hanten-mae
+月ノ会町,ja,月ノ会町
+月ノ会町,ja-Hrkt,つきのえちょう
+月ノ会町,en,Tsukinoecho
+月丘町,ja,月丘町
+月丘町,ja-Hrkt,つきおかちょう
+月丘町,en,Tsukiokacho
+月丘町3丁目,ja,月丘町3丁目
+月丘町3丁目,ja-Hrkt,つきおかちょうさんちょうめ
+月丘町3丁目,en,Tsukiokacho-sanchome(Tsukiokacho 3)
+月見町,ja,月見町
+月見町,ja-Hrkt,つきみちょう
+月見町,en,Tsukimicho
+朝日大学病院前,ja,朝日大学病院前
+朝日大学病院前,ja-Hrkt,あさひだいがくびょういんまえ
+朝日大学病院前,en,Asahidaigaku Byoin-mae(Asahi Univ. Hospital)
+朝日町,ja,朝日町
+朝日町,ja-Hrkt,あさひまち
+朝日町,en,Asahimachi
+朝霧町,ja,朝霧町
+朝霧町,ja-Hrkt,あさぎりちょう
+朝霧町,en,Asagiricho
+本町,ja,本町
+本町,ja-Hrkt,ほんまち
+本町,en,Hommachi
+本荘公園西,ja,本荘公園西
+本荘公園西,ja-Hrkt,ほんじょうこうえんにし
+本荘公園西,en,Honjo Koen-nishi(Honjo Park)
+本荘公民館,ja,本荘公民館
+本荘公民館,ja-Hrkt,ほんじょうこうみんかん
+本荘公民館,en,Honjo Kominkan
+本荘西公園西,ja,本荘西公園西
+本荘西公園西,ja-Hrkt,ほんじょうにしこうえんにし
+本荘西公園西,en,Honjonishi Koen-nishi(Honjonishi Park)
+本郷いこい広場,ja,本郷いこい広場
+本郷いこい広場,ja-Hrkt,ほんごういこいひろば
+本郷いこい広場,en,Hongo Ikoihiroba
+杉江商店,ja,杉江商店
+杉江商店,ja-Hrkt,すぎえしょうてん
+杉江商店,en,Sugie Shoten
+村瀬内科胃腸科クリニック,ja,村瀬内科胃腸科クリニック
+村瀬内科胃腸科クリニック,ja-Hrkt,むらせないかいちょうかくりにっく
+村瀬内科胃腸科クリニック,en,Murase Naika Ichoka Clinic
+東中島東,ja,東中島東
+東中島東,ja-Hrkt,ひがしなかじまひがし
+東中島東,en,Higashinakajima-higashi
+東中島西,ja,東中島西
+東中島西,ja-Hrkt,ひがしなかじまにし
+東中島西,en,Higashinakajima-nishi
+東塚1丁目,ja,東塚1丁目
+東塚1丁目,ja-Hrkt,ひがしづかいっちょうめ
+東塚1丁目,en,Higashizuka-itchome(Higashizuka 1)
+東塚3丁目,ja,東塚3丁目
+東塚3丁目,ja-Hrkt,ひがしづかさんちょうめ
+東塚3丁目,en,Higashizuka-itchome(Higashizuka 1)
+東島,ja,東島
+東島,ja-Hrkt,ひがしじま
+東島,en,Higashijima
+東改田,ja,東改田
+東改田,ja-Hrkt,ひがしかいでん
+東改田,en,Higashikaiden
+東木田公園,ja,東木田公園
+東木田公園,ja-Hrkt,ひがしきだこうえん
+東木田公園,en,Higashikida Koen(Higashikida Park)
+東栄町2丁目,ja,東栄町2丁目
+東栄町2丁目,ja-Hrkt,とうえいちょうにちょうめ
+東栄町2丁目,en,Toueicho-nichome(Toueicho 2)
+東海労金岐阜支店・ワークプラザ岐阜,ja,東海労金岐阜支店・ワークプラザ岐阜
+東海労金岐阜支店・ワークプラザ岐阜,ja-Hrkt,とうかいろうきんぎふしてん・わーくぷらざぎふ
+東海労金岐阜支店・ワークプラザ岐阜,en,Tokairokin Gifushiten/Work Plaza Gifu
+東芥見・ＪＡ芥見支店,ja,東芥見・ＪＡ芥見支店
+東芥見・ＪＡ芥見支店,ja-Hrkt,ひがしあくたみ・じぇいえいあくたみしてん
+東芥見・ＪＡ芥見支店,en,Higashi Akutami/JA Akutamishiten
+東部コミセン,ja,東部コミセン
+東部コミセン,ja-Hrkt,とうぶこみせん
+東部コミセン,en,Tobu Komisen(Tobu Community Center)
+東部事務所,ja,東部事務所
+東部事務所,ja-Hrkt,とうぶじむしょ
+東部事務所,en,Tobu Jimusho(Eastern Office)
+東鶉7丁目バス停,ja,東鶉7丁目バス停
+東鶉7丁目バス停,ja-Hrkt,ひがしうずらななちょうめばすてい
+東鶉7丁目バス停,en,Higashiuzura-nanachome(Higashiuzura 7) Bus Stop
+松寿し,ja,松寿し
+松寿し,ja-Hrkt,まつずし
+松寿し,en,Matsuzushi
+松岡整形前,ja,松岡整形前
+松岡整形前,ja-Hrkt,まつおかせいけいまえ
+松岡整形前,en,Matsuoka Seikei-mae
+松波総合病院,ja,松波総合病院
+松波総合病院,ja-Hrkt,まつなみそうごうびょういん
+松波総合病院,en,Matsunami Sogo Byoin(Matsunami General Hospital)
+松籟荘,ja,松籟荘
+松籟荘,ja-Hrkt,しょうらいそう
+松籟荘,en,Shoraiso
+松風苑（滝住前）,ja,松風苑（滝住前）
+松風苑（滝住前）,ja-Hrkt,しょうふうえん（たきじゅうまえ）
+松風苑（滝住前）,en,Shofuen/Takiju-mae
+林クリニック前,ja,林クリニック前
+林クリニック前,ja-Hrkt,はやしくりにっくまえ
+林クリニック前,en,Hayashi Clinic-mae
+柏台北（6丁目）,ja,柏台北（6丁目）
+柏台北（6丁目）,ja-Hrkt,かしわだいきた（ろくちょうめ）
+柏台北（6丁目）,en,Kashiwadai-kita/rokuchome(Kashiwadai 6)
+柏台南（2丁目）,ja,柏台南（2丁目）
+柏台南（2丁目）,ja-Hrkt,かしわだいみなみ（にちょうめ）
+柏台南（2丁目）,en,Kashiwadai-minami/nichome(Kashiwadai 2)
+柏台市営住宅,ja,柏台市営住宅
+柏台市営住宅,ja-Hrkt,かしわだいしえいじゅうたく
+柏台市営住宅,en,Kashiwadai Shieijutaku
+柏台東（7丁目）,ja,柏台東（7丁目）
+柏台東（7丁目）,ja-Hrkt,かしわだいひがし（ななちょうめ）
+柏台東（7丁目）,en,Kashiwadai-higashi/nanachome(Kashiwadai 7)
+柏台西（桜台連絡橋）,ja,柏台西（桜台連絡橋）
+柏台西（桜台連絡橋）,ja-Hrkt,かしわだいにし（さくらだいれんらくきょう）
+柏台西（桜台連絡橋）,en,Kashiwadai-nishi/Sakuradai Renrakukyo
+柳ケ瀬,ja,柳ケ瀬
+柳ケ瀬,ja-Hrkt,やながせ
+柳ケ瀬,en,Yanagase
+柳津地域事務所,ja,柳津地域事務所
+柳津地域事務所,ja-Hrkt,やないづちいきじむしょ
+柳津地域事務所,en,Yanaizu Chiiki Jimusho(Yanaizu Regional Office)
+柳津東保育所北,ja,柳津東保育所北
+柳津東保育所北,ja-Hrkt,やないづひがしほいくじょきた
+柳津東保育所北,en,Yanaizuhigashi Hoikujo-kita(Yanaizuhigashi Kindergarten)
+柿ヶ瀬東,ja,柿ヶ瀬東
+柿ヶ瀬東,ja-Hrkt,かきがせひがし
+柿ヶ瀬東,en,Kakigase-higashi
+柿ヶ瀬西,ja,柿ヶ瀬西
+柿ヶ瀬西,ja-Hrkt,かきがせにし
+柿ヶ瀬西,en,Kakigase-nishi
+栄町,ja,栄町
+栄町,ja-Hrkt,さかえまち
+栄町,en,Sakaemachi
+栢屋商店前,ja,栢屋商店前
+栢屋商店前,ja-Hrkt,かしわやしょうてんまえ
+栢屋商店前,en,Kashiwayashoten-mae
+桐が丘北（1丁目）,ja,桐が丘北（1丁目）
+桐が丘北（1丁目）,ja-Hrkt,きりがおかきた（いっちょうめ）
+桐が丘北（1丁目）,en,Kirigaoka-kita/itchome(Kirigaoka 1)
+桐が丘市営住宅,ja,桐が丘市営住宅
+桐が丘市営住宅,ja-Hrkt,きりがおかしえいじゅうたく
+桐が丘市営住宅,en,Kirigaoka Shieijutaku
+桐が丘東（桜台連絡橋）,ja,桐が丘東（桜台連絡橋）
+桐が丘東（桜台連絡橋）,ja-Hrkt,きりがおかひがし（さくらだいれんらくきょう）
+桐が丘東（桜台連絡橋）,en,Kirigaoka-higashi/Sakuradai Renrakukyo
+桜台・柏台口,ja,桜台・柏台口
+桜台・柏台口,ja-Hrkt,さくらだい・かしわだいぐち
+桜台・柏台口,en,Sakuradai/Kashiwadai-guchi
+桜台北（桐が丘連絡橋）,ja,桜台北（桐が丘連絡橋）
+桜台北（桐が丘連絡橋）,ja-Hrkt,さくらだいきた（きりがおかれんらくきょう）
+桜台北（桐が丘連絡橋）,en,Sakuradai-kita/Kirigaoka Renrakukyo
+桜台市営住宅,ja,桜台市営住宅
+桜台市営住宅,ja-Hrkt,さくらだいしえいじゅうたく
+桜台市営住宅,en,Sakuradai Shieijutaku
+桜台東（柏台連絡橋),ja,桜台東（柏台連絡橋)
+桜台東（柏台連絡橋),ja-Hrkt,さくらだいひがし（かしわだいれんらくきょう）
+桜台東（柏台連絡橋),en,Sakuradai-higashi/Kashiwadai Renrakukyo
+桜台西（2丁目）,ja,桜台西（2丁目）
+桜台西（2丁目）,ja-Hrkt,さくらだいにし（にちょうめ）
+桜台西（2丁目）,en,Sakuradai-nishi/nichome(Sakuradai 2)
+桜台西北（3丁目）,ja,桜台西北（3丁目）
+桜台西北（3丁目）,ja-Hrkt,さくらだいにしきた（さんちょうめ）
+桜台西北（3丁目）,en,Sakuradai-nishikita/sanchome(Sakuradai 3)
+桜町,ja,桜町
+桜町,ja-Hrkt,さくらまち
+桜町,en,Sakuramachi
+梅松,ja,梅松
+梅松,ja-Hrkt,うめまつ
+梅松,en,Umematsu
+梅田クリニック,ja,梅田クリニック
+梅田クリニック,ja-Hrkt,うめだくりにっく
+梅田クリニック,en,Umeda Clinic
+梶川整形外科・歯科,ja,梶川整形外科・歯科
+梶川整形外科・歯科,ja-Hrkt,かじかわせいけいげか・しか
+梶川整形外科・歯科,en,Kajikawa Seikeigeka/Shika
+棚橋内科前,ja,棚橋内科前
+棚橋内科前,ja-Hrkt,たなはしないかまえ
+棚橋内科前,en,Tanahashi Naika-mae
+森・中屋,ja,森・中屋
+森・中屋,ja-Hrkt,もり・なかや
+森・中屋,en,Mori/Nakaya
+森屋,ja,森屋
+森屋,ja-Hrkt,もりや
+森屋,en,Moriya
+森田整形外科,ja,森田整形外科
+森田整形外科,ja-Hrkt,もりたせいけいげか
+森田整形外科,en,Morita Seikeigeka
+椿洞,ja,椿洞
+椿洞,ja-Hrkt,つばきぼら
+椿洞,en,Tsubakibora
+樫木団地口,ja,樫木団地口
+樫木団地口,ja-Hrkt,かしぎだんちぐち
+樫木団地口,en,Kashigi Danchi-guchi
+橿森神社,ja,橿森神社
+橿森神社,ja-Hrkt,かしもりじんじゃ
+橿森神社,en,Kashimorijinja
+正木マーサ前,ja,正木マーサ前
+正木マーサ前,ja-Hrkt,まさきまーさまえ
+正木マーサ前,en,Masaki MASA-mae
+正木北公園前,ja,正木北公園前
+正木北公園前,ja-Hrkt,まさききたこうえんまえ
+正木北公園前,en,Masakikita Koen-mae(Masakikita Park)
+正法寺北,ja,正法寺北
+正法寺北,ja-Hrkt,しょうほうじきた
+正法寺北,en,Shohoji-kita
+殿町3丁目・金園町4丁目,ja,殿町3丁目・金園町4丁目
+殿町3丁目・金園町4丁目,ja-Hrkt,とのまちさんちょうめ・かなぞのちょうよんちょうめ
+殿町3丁目・金園町4丁目,en,Tonomachi-sanchome/Kanazonocho-yonchome(Tonomachi 3/Kanazonocho 4)
+水主町1丁目,ja,水主町1丁目
+水主町1丁目,ja-Hrkt,かこまちいっちょうめ
+水主町1丁目,en,Kakomachi-itchome(Kakomachi 1)
+水海道2丁目,ja,水海道2丁目
+水海道2丁目,ja-Hrkt,みずかいどうにちょうめ
+水海道2丁目,en,Mizukaido-nichome(Mizukaido 2)
+江口橋,ja,江口橋
+江口橋,ja-Hrkt,えぐちばし
+江口橋,en,Eguchibashi(Eguchi Bridge)
+江崎歯科東,ja,江崎歯科東
+江崎歯科東,ja-Hrkt,えざきしかひがし
+江崎歯科東,en,Ezaki Shika-higashi
+河村病院東,ja,河村病院東
+河村病院東,ja-Hrkt,かわむらびょういんひがし
+河村病院東,en,Kawamura Byoin-higashi(Kawamura Hospital)
+津島神社,ja,津島神社
+津島神社,ja-Hrkt,つしまじんじゃ
+津島神社,en,Tsushimajinja
+津島神社前,ja,津島神社前
+津島神社前,ja-Hrkt,つしまじんじゃまえ
+津島神社前,en,Tsushimajinja-mae
+津島神社前（鶉）,ja,津島神社前（鶉）
+津島神社前（鶉）,ja-Hrkt,つしまじんじゃまえ
+津島神社前（鶉）,en,Tsushimajinja-mae
+流公園,ja,流公園
+流公園,ja-Hrkt,ながれこうえん
+流公園,en,Nagare Koen(Nagare Park)
+清本町５丁目,ja,清本町５丁目
+清本町５丁目,ja-Hrkt,せいほんまちごちょうめ
+清本町５丁目,en,Seihommachi-gochome(Seihommachi 5)
+清水ヶ丘,ja,清水ヶ丘
+清水ヶ丘,ja-Hrkt,しみずがおか
+清水ヶ丘,en,Shimizugaoka
+清水団地,ja,清水団地
+清水団地,ja-Hrkt,しみずだんち
+清水団地,en,Shimizudanchi
+清水野,ja,清水野
+清水野,ja-Hrkt,しみずの
+清水野,en,Shimizuno
+清洲公民館,ja,清洲公民館
+清洲公民館,ja-Hrkt,きよすこうみんかん
+清洲公民館,en,Kiyosu Kominkan
+清流文化プラザ南,ja,清流文化プラザ南
+清流文化プラザ南,ja-Hrkt,せいりゅうぶんかぷらざみなみ
+清流文化プラザ南,en,Seiryubunka Plraza-minami
+済法寺大門,ja,済法寺大門
+済法寺大門,ja-Hrkt,さいほうじだいもん
+済法寺大門,en,Saihoji Daimon
+溝口,ja,溝口
+溝口,ja-Hrkt,みぞぐち
+溝口,en,Mizoguchi
+溝口上,ja,溝口上
+溝口上,ja-Hrkt,みぞぐちかみ
+溝口上,en,Mizoguchikami
+澤田病院前,ja,澤田病院前
+澤田病院前,ja-Hrkt,さわだびょういんまえ
+澤田病院前,en,Aawada Byoin-mae(Sawada Hospital)
+片田神社前,ja,片田神社前
+片田神社前,ja-Hrkt,かただじんじゃまえ
+片田神社前,en,Katadajinja-mae
+物部,ja,物部
+物部,ja-Hrkt,ものべ
+物部,en,Monobe
+獅子林前,ja,獅子林前
+獅子林前,ja-Hrkt,ししりんまえ
+獅子林前,en,Shishirin-mae
+生協芥見店,ja,生協芥見店
+生協芥見店,ja-Hrkt,せいきょうあくたみてん
+生協芥見店,en,Seikyo Akutamiten
+田中接骨院,ja,田中接骨院
+田中接骨院,ja-Hrkt,たなかせっこついん
+田中接骨院,en,Tanaka Sekkotsuin
+田中歯科医院前,ja,田中歯科医院前
+田中歯科医院前,ja-Hrkt,たなかしかいいんまえ
+田中歯科医院前,en,Tanaka Shikaiin-mae
+畑中,ja,畑中
+畑中,ja-Hrkt,はたなか
+畑中,en,Hatanaka
+百楽団地,ja,百楽団地
+百楽団地,ja-Hrkt,ひゃくらくだんち
+百楽団地,en,Hyakurakudanchi
+県営加野住宅,ja,県営加野住宅
+県営加野住宅,ja-Hrkt,けんえいかのじゅうたく
+県営加野住宅,en,Kenei Kano Jutaku
+県図書館・美術館,ja,県図書館・美術館
+県図書館・美術館,ja-Hrkt,けんとしょかん・びじゅつかん
+県図書館・美術館,en,Kentoshokan/Bijutsukan(Gifu Prefectural Library/The Museum of Fine Arts-Gifu)
+県庁,ja,県庁
+県庁,ja-Hrkt,けんちょう
+県庁,en,Kencho(Gifu Prefectural Office)
+県民ふれあい会館前,ja,県民ふれあい会館前
+県民ふれあい会館前,ja-Hrkt,けんみんふれあいかいかんまえ
+県民ふれあい会館前,en,Kemmin Fureai Kaikan-mae(Gifu Fureai Plaza)
+県総合医療センター,ja,県総合医療センター
+県総合医療センター,ja-Hrkt,けんそうごういりょうせんたー
+県総合医療センター,en,Ken Sogo Iryo Center(Gifu Prefectural General Medical Center)
+県美術館北,ja,県美術館北
+県美術館北,ja-Hrkt,けんびじゅつかんきた
+県美術館北,en,Kembijutsukan-kita(The Museum of Fine Arts-Gifu)
+眞福禅寺前,ja,眞福禅寺前
+眞福禅寺前,ja-Hrkt,しんぷくぜんじまえ
+眞福禅寺前,en,Shimpukuzenji-mae
+石原台団地公園,ja,石原台団地公園
+石原台団地公園,ja-Hrkt,いしはらだいだんちこうえん
+石原台団地公園,en,Ishiharadaidanchi Koen(Ishiharadaidanchi Park)
+石原台団地東,ja,石原台団地東
+石原台団地東,ja-Hrkt,いしはらだいだんちひがし
+石原台団地東,en,Ishiharadaidanchi-higashi
+石原産婦人科前,ja,石原産婦人科前
+石原産婦人科前,ja-Hrkt,いしはらさんふじんかまえ
+石原産婦人科前,en,Ishihara Sanfujinka-mae
+石原自動車前,ja,石原自動車前
+石原自動車前,ja-Hrkt,いしはらじどうしゃまえ
+石原自動車前,en,Ishihara Jidosha-mae
+石川内科クリニック前,ja,石川内科クリニック前
+石川内科クリニック前,ja-Hrkt,いしかわないかくりにっくまえ
+石川内科クリニック前,en,Ishikawa Naika Clinic-mae
+石田内科前,ja,石田内科前
+石田内科前,ja-Hrkt,いしだないかまえ
+石田内科前,en,Ishida Naika-mae
+石黒クリニック前,ja,石黒クリニック前
+石黒クリニック前,ja-Hrkt,いしぐろくりにっくまえ
+石黒クリニック前,en,Ishiguro Clinic-mae
+神明神社,ja,神明神社
+神明神社,ja-Hrkt,しんめいじんじゃ
+神明神社,en,Shimmeijinja
+神明神社（茜部）,ja,神明神社（茜部）
+神明神社（茜部）,ja-Hrkt,しんめいじんじゃ
+神明神社（茜部）,en,Shimmeijinja
+神明神社北,ja,神明神社北
+神明神社北,ja-Hrkt,しんめいじんじゃきた
+神明神社北,en,Shimmeijinja-kita
+神池,ja,神池
+神池,ja-Hrkt,かみいけ
+神池,en,Kamiike
+福丸南口,ja,福丸南口
+福丸南口,ja-Hrkt,ふくまるみなみぐち
+福丸南口,en,Fukumaru-minamiguchi
+福丸団地,ja,福丸団地
+福丸団地,ja-Hrkt,ふくまるだんち
+福丸団地,en,Fukumarudanchi
+福光公園西,ja,福光公園西
+福光公園西,ja-Hrkt,ふくみつこうえんにし
+福光公園西,en,Fukumitsu Koen-nishi(Fukumitsu Park)
+福光東3丁目,ja,福光東3丁目
+福光東3丁目,ja-Hrkt,ふくみつひがしさんちょうめ
+福光東3丁目,en,Fukumitsuhigashi-sanchome(Fukumitsuhigashi 3)
+福富,ja,福富
+福富,ja-Hrkt,ふくとみ
+福富,en,Fukutomi
+福富口,ja,福富口
+福富口,ja-Hrkt,ふくとみぐち
+福富口,en,Fukutomi-guchi
+福富団地,ja,福富団地
+福富団地,ja-Hrkt,ふくとみだんち
+福富団地,en,Fukutomidanchi
+福富団地南口,ja,福富団地南口
+福富団地南口,ja-Hrkt,ふくとみだんちみなみぐち
+福富団地南口,en,Fukutomidanchi-minamiguchi
+福富団地口,ja,福富団地口
+福富団地口,ja-Hrkt,ふくとみだんちぐち
+福富団地口,en,Fukutomidanchi-guchi
+福富団地東,ja,福富団地東
+福富団地東,ja-Hrkt,ふくとみだんちひがし
+福富団地東,en,Fukutomidanchi-higashi
+福富町田,ja,福富町田
+福富町田,ja-Hrkt,ふくとみまちだ
+福富町田,en,Fukutomimachida
+福寿公園前,ja,福寿公園前
+福寿公園前,ja-Hrkt,ふくじゅこうえんまえ
+福寿公園前,en,Fukuju Koen-mae(Fukuju Park)
+福祉・農業会館南,ja,福祉・農業会館南
+福祉・農業会館南,ja-Hrkt,ふくし・のうぎょうかいかんみなみ
+福祉・農業会館南,en,Fkushi Nogyo Kaikan-minami
+科学館前,ja,科学館前
+科学館前,ja-Hrkt,かがくかんまえ
+科学館前,en,Kagakukan-mae
+立専寺,ja,立専寺
+立専寺,ja-Hrkt,りゅうせんじ
+立専寺,en,Ryusenji
+立山クリニック前,ja,立山クリニック前
+立山クリニック前,ja-Hrkt,たてやまくりにっくまえ
+立山クリニック前,en,Tateyama Clinic-mae
+競輪場北,ja,競輪場北
+競輪場北,ja-Hrkt,けいりんじょうきた
+競輪場北,en,Keirinjyou-kita
+竹内医院南,ja,竹内医院南
+竹内医院南,ja-Hrkt,たけうちいいんみなみ
+竹内医院南,en,Takeuchi Iin-minami
+竹村歯科医院,ja,竹村歯科医院
+竹村歯科医院,ja-Hrkt,たけむらしかいいん
+竹村歯科医院,en,Takemura Shikaiin
+笠原鋼鉄前,ja,笠原鋼鉄前
+笠原鋼鉄前,ja-Hrkt,かさはらこうてつまえ
+笠原鋼鉄前,en,Kasaharakotetsu-mae
+笠松病院・岐阜市地域包括支援センター境川,ja,笠松病院・岐阜市地域包括支援センター境川
+笠松病院・岐阜市地域包括支援センター境川,ja-Hrkt,かさまつびょういん・ぎふしちいきほうかつしえんせんたーさかいがわ
+笠松病院・岐阜市地域包括支援センター境川,en,Kasamatsu Byoin(Kasamatsu Hospital)/Gifushi Chiikihokatsushien Center Sakaigawa
+第3岐阜老人ホーム前,ja,第3岐阜老人ホーム前
+第3岐阜老人ホーム前,ja-Hrkt,だいさんぎふろうじんほーむまえ
+第3岐阜老人ホーム前,en,Daisan Gifu Rojin-Home-mae
+第一千成団地南,ja,第一千成団地南
+第一千成団地南,ja-Hrkt,だいいちせんなりだんちみなみ
+第一千成団地南,en,Daiichi Sennaridanchi-minami
+第一学ヶ丘,ja,第一学ヶ丘
+第一学ヶ丘,ja-Hrkt,だいいちまなびがおか
+第一学ヶ丘,en,Daiichi Manabigaoka
+第三下鵜飼,ja,第三下鵜飼
+第三下鵜飼,ja-Hrkt,だいさんしもうかい
+第三下鵜飼,en,Daisan Shimoukai
+第二学ヶ丘,ja,第二学ヶ丘
+第二学ヶ丘,ja-Hrkt,だいにまなびがおか
+第二学ヶ丘,en,Daini Manabigaoka
+簡易保険前,ja,簡易保険前
+簡易保険前,ja-Hrkt,かんいほけんまえ
+簡易保険前,en,Kanihoken-mae
+粟野口,ja,粟野口
+粟野口,ja-Hrkt,あわのぐち
+粟野口,en,Awano-guchi
+粟野台,ja,粟野台
+粟野台,ja-Hrkt,あわのだい
+粟野台,en,Awanodai
+粟野東3丁目北,ja,粟野東3丁目北
+粟野東3丁目北,ja-Hrkt,あわのひがしさんちょうめきた
+粟野東3丁目北,en,Awanohigashi-sanchome-kita(Awanohigashi 3 kita)
+粟野東3丁目南,ja,粟野東3丁目南
+粟野東3丁目南,ja-Hrkt,あわのひがしさんちょうめみなみ
+粟野東3丁目南,en,Awanohigashi-sanchome-minami(Awanohigashi 3 minami)
+粟野東３丁目南【廃止】,ja,粟野東３丁目南【廃止】
+粟野東３丁目南【廃止】,ja-Hrkt,あわのひがしさんちょうめみなみ
+粟野東３丁目南【廃止】,en,Awanohigashi-sanchome-minami(Awanohigashi 3 minami)
+粟野東４丁目,ja,粟野東４丁目
+粟野東４丁目,ja-Hrkt,あわのひがしよんちょうめ
+粟野東４丁目,en,Awanohigashi-yonchome(Awanohigashi 4)
+粟野西１丁目,ja,粟野西１丁目
+粟野西１丁目,ja-Hrkt,あわのにしいっちょうめ
+粟野西１丁目,en,Awanonishi-itchome(Awanonishi 1)
+粟野西５丁目,ja,粟野西５丁目
+粟野西５丁目,ja-Hrkt,あわのにしごちょうめ
+粟野西５丁目,en,Awanonishi-gochome(Awanonishi 5)
+粟野西６丁目,ja,粟野西６丁目
+粟野西６丁目,ja-Hrkt,あわのにしろくちょうめ
+粟野西６丁目,en,Awanonishi-rokuchome(Awanonishi 6)
+粟野西７丁目,ja,粟野西７丁目
+粟野西７丁目,ja-Hrkt,あわのにしななちょうめ
+粟野西７丁目,en,Awanonishi-nanachome(Awanonishi 7)
+精華西,ja,精華西
+精華西,ja-Hrkt,せいかにし
+精華西,en,Seika-nishi
+紅葉が丘公園,ja,紅葉が丘公園
+紅葉が丘公園,ja-Hrkt,もみじがおかこうえん
+紅葉が丘公園,en,Momijigaoka Koen(Momijigaoka Park)
+紅葉が丘東北（6丁目）,ja,紅葉が丘東北（6丁目）
+紅葉が丘東北（6丁目）,ja-Hrkt,もみじがおかひがしきた（ろくちょうめ）
+紅葉が丘東北（6丁目）,en,Momijigaoka-higashikita/rokuchome(Momijigaoka 6)
+紅葉が丘西（1丁目）,ja,紅葉が丘西（1丁目）
+紅葉が丘西（1丁目）,ja-Hrkt,もみじがおかにし（いっちょうめ）
+紅葉が丘西（1丁目）,en,Momijigaoka-nishi/itchome(Momijigaoka 1)
+紅葉が丘西北（2丁目）,ja,紅葉が丘西北（2丁目）
+紅葉が丘西北（2丁目）,ja-Hrkt,もみじがおかにしきた（にちょうめ）
+紅葉が丘西北（2丁目）,en,Momijigaoka-nishikita/nichome(Momijigaoka 2)
+細畑・二ツ山,ja,細畑・二ツ山
+細畑・二ツ山,ja-Hrkt,ほそばた・ふたつやま
+細畑・二ツ山,en,Hosobata/Futatsuyama
+細畑3丁目,ja,細畑3丁目
+細畑3丁目,ja-Hrkt,ほそばたさんちょうめ
+細畑3丁目,en,Hosobata-sanchome(Hosobata 3)
+細畑中,ja,細畑中
+細畑中,ja-Hrkt,ほそばたなか
+細畑中,en,Hosobatanaka
+細畑華南,ja,細畑華南
+細畑華南,ja-Hrkt,ほそばたかなん
+細畑華南,en,Hosobatakanan
+緑ヶ丘,ja,緑ヶ丘
+緑ヶ丘,ja-Hrkt,みどりがおか
+緑ヶ丘,en,Midorigaoka
+緑山・大洞,ja,緑山・大洞
+緑山・大洞,ja-Hrkt,みどりやま・おおぼら
+緑山・大洞,en,Midoriyama/Obora
+緑山1丁目,ja,緑山1丁目
+緑山1丁目,ja-Hrkt,みどりやまいっちょうめ
+緑山1丁目,en,Midoriyama-itchome(Midoriyama 1)
+緑山2丁目,ja,緑山2丁目
+緑山2丁目,ja-Hrkt,みどりやまにちょうめ
+緑山2丁目,en,Midoriyama-nichome(Midoriyama 2)
+緑山2丁目北,ja,緑山2丁目北
+緑山2丁目北,ja-Hrkt,みどりやまにちょうめきた
+緑山2丁目北,en,Midoriyama-nichome-kita(Midoriyama 2)
+緑山東・願成寺口,ja,緑山東・願成寺口
+緑山東・願成寺口,ja-Hrkt,みどりやまひがし・がんじょうじぐち
+緑山東・願成寺口,en,Midoriyama-higashi/Ganjoji-guchi
+美濃正,ja,美濃正
+美濃正,ja-Hrkt,みのしょう
+美濃正,en,Minosho
+聖マリア前,ja,聖マリア前
+聖マリア前,ja-Hrkt,せいまりあまえ
+聖マリア前,en,Seimaria-mae
+自由ヶ丘1,ja,自由ヶ丘1
+自由ヶ丘1,ja-Hrkt,じゆうがおかいち
+自由ヶ丘1,en,Jiyugaoka-ichi(Jiyugaoka 1)
+自由ヶ丘2,ja,自由ヶ丘2
+自由ヶ丘2,ja-Hrkt,じゆうがおかに
+自由ヶ丘2,en,Jiyugaoka-ni(Jiyugaoka 2)
+自由ヶ丘3,ja,自由ヶ丘3
+自由ヶ丘3,ja-Hrkt,じゆうがおかさん
+自由ヶ丘3,en,Jiyugaoka-san(Jiyugaoka 3)
+自由ヶ丘4,ja,自由ヶ丘4
+自由ヶ丘4,ja-Hrkt,じゆうがおかよん
+自由ヶ丘4,en,Jiyugaoka-yon(Jiyugaoka 4)
+自由ヶ丘5,ja,自由ヶ丘5
+自由ヶ丘5,ja-Hrkt,じゆうがおかご
+自由ヶ丘5,en,Jiyugaoka-go(Jiyugaoka 5)
+芋島4丁目,ja,芋島4丁目
+芋島4丁目,ja-Hrkt,いもじまよんちょうめ
+芋島4丁目,en,Imojima-yonchome(Imojima 4)
+芋島東,ja,芋島東
+芋島東,ja-Hrkt,いもじまひがし
+芋島東,en,Imojima-higashi
+芥見交番・順明堂歯科,ja,芥見交番・順明堂歯科
+芥見交番・順明堂歯科,ja-Hrkt,あくたみこうばん・じゅんめいどうしか
+芥見交番・順明堂歯科,en,Akutami Koban(Akutami Police Box)/Jummeido Shika
+芥見南公民館口,ja,芥見南公民館口
+芥見南公民館口,ja-Hrkt,あくたみみなみこうみんかんぐち
+芥見南公民館口,en,Akutamiminami Kominkan-guchi
+芥見小学校北,ja,芥見小学校北
+芥見小学校北,ja-Hrkt,あくたみしょうがっこうきた
+芥見小学校北,en,Akutami Shogakko-kita(Akutami Elementary School)
+芥見東小学校・東公民館,ja,芥見東小学校・東公民館
+芥見東小学校・東公民館,ja-Hrkt,あくたみひがししょうがっこう・ひがしこうみんかん
+芥見東小学校・東公民館,en,Akutamihigashi Shogakko(Akutamihigashi Elementary School)/Higashi Kominkan
+芥見町屋,ja,芥見町屋
+芥見町屋,ja-Hrkt,あくたみまちや
+芥見町屋,en,Akutami machiya
+芥見診療所,ja,芥見診療所
+芥見診療所,ja-Hrkt,あくたみしんりょうじょ
+芥見診療所,en,Akutami Shinryojo
+若草町,ja,若草町
+若草町,ja-Hrkt,わかくさちょう
+若草町,en,Wakakusacho
+茜部公民館前,ja,茜部公民館前
+茜部公民館前,ja-Hrkt,あかなべこうみんかんまえ
+茜部公民館前,en,Akanabe Kominkan-mae
+茜部小学校前,ja,茜部小学校前
+茜部小学校前,ja-Hrkt,あかなべしょうがっこうまえ
+茜部小学校前,en,Akanabe Shogakko-mae(Akanabe Elementary School)
+茶所東,ja,茶所東
+茶所東,ja-Hrkt,ちゃじょひがし
+茶所東,en,Chajo-higashi
+菅生,ja,菅生
+菅生,ja-Hrkt,すごう
+菅生,en,Sugo
+華陽小学校,ja,華陽小学校
+華陽小学校,ja-Hrkt,かようしょうがっこう
+華陽小学校,en,Kayo Shogakko(Kayo Elementary School)
+華陽郵便局前,ja,華陽郵便局前
+華陽郵便局前,ja-Hrkt,かようゆうびんきょくまえ
+華陽郵便局前,en,Kayo Yubinkyoku-mae(Kayo Post Office)
+菱野4丁目,ja,菱野4丁目
+菱野4丁目,ja-Hrkt,ひしのよんちょうめ
+菱野4丁目,en,Hishino-yonchome(Hishino 4)
+萱場公民館,ja,萱場公民館
+萱場公民館,ja-Hrkt,かやばこうみんかん
+萱場公民館,en,Kayaba Kominkan
+萱場西公園,ja,萱場西公園
+萱場西公園,ja-Hrkt,かやばにしこうえん
+萱場西公園,en,Kayaba-nishi Koen(Kayaba-nishi Park)
+蓮池2丁目（石窯パン工房ドゥマン前）,ja,蓮池2丁目（石窯パン工房ドゥマン前）
+蓮池2丁目（石窯パン工房ドゥマン前）,ja-Hrkt,はすいけにちょうめ（いしがまぱんこうぼうどぅまんまえ）
+蓮池2丁目（石窯パン工房ドゥマン前）,en,Hasuike-nichome（Hasuike 2)/Ishigamapankobo Demain-mae）
+蓮池6丁目,ja,蓮池6丁目
+蓮池6丁目,ja-Hrkt,はすいけろくちょうめ
+蓮池6丁目,en,Hasuike-rokuchome(Hasuike 6)
+薬師橋,ja,薬師橋
+薬師橋,ja-Hrkt,やくしばし
+薬師橋,en,Yakushibashi(Yakushi Bridge)
+薮田公民館南,ja,薮田公民館南
+薮田公民館南,ja-Hrkt,やぶたこうみんかんみなみ
+薮田公民館南,en,Yabuta Kkominkan-minami
+薮田南3丁目,ja,薮田南3丁目
+薮田南3丁目,ja-Hrkt,やぶたみなみさんちょうめ
+薮田南3丁目,en,Yabutaminami-sanchome(Yabutaminami 3)
+薮田東1丁目,ja,薮田東1丁目
+薮田東1丁目,ja-Hrkt,やぶたひがしいっちょうめ
+薮田東1丁目,en,Yabutahigashi-itchome(Yabutahigashi 1)
+薮田県職員アパート東,ja,薮田県職員アパート東
+薮田県職員アパート東,ja-Hrkt,やぶたけんしょくいんあぱーとひがし
+薮田県職員アパート東,en,Yabuta Kenshokuin Apartment-higashi
+薮田西公民館東,ja,薮田西公民館東
+薮田西公民館東,ja-Hrkt,やぶたにしこうみんかんひがし
+薮田西公民館東,en,Yabutanishi Kominkan-higashi
+藍川公民館,ja,藍川公民館
+藍川公民館,ja-Hrkt,あいかわこうみんかん
+藍川公民館,en,Aikawa Kominkan
+藍川北中西（高橋接骨院）,ja,藍川北中西（高橋接骨院）
+藍川北中西（高橋接骨院）,ja-Hrkt,あいかわきたちゅうにし（たかはしせっこついん）
+藍川北中西（高橋接骨院）,en,Aikawakitachu-nishi(Aikawakita Junior High School/Takahashi Sekkotsuin)
+藍川東中学校,ja,藍川東中学校
+藍川東中学校,ja-Hrkt,あいかわひがしちゅうがっこう
+藍川東中学校,en,Aikawahigashi Chugakko(Aikawahigashi Junior High School)
+藍川橋・大野はり灸前,ja,藍川橋・大野はり灸前
+藍川橋・大野はり灸前,ja-Hrkt,あいかわばし・おおのはりきゅうまえ
+藍川橋・大野はり灸前,en,Aikawa Bridge/Ono Harikyu-mae
+藤ヶ崎,ja,藤ヶ崎
+藤ヶ崎,ja-Hrkt,ふじがさき
+藤ヶ崎,en,Fujigasaki
+藤垣クリニック・トーカイ薬局・ゲンキー,ja,藤垣クリニック・トーカイ薬局・ゲンキー
+藤垣クリニック・トーカイ薬局・ゲンキー,ja-Hrkt,ふじがきくりにっく・とーかいやっきょく・げんきー
+藤垣クリニック・トーカイ薬局・ゲンキー,en,Fujigaki Clinic/Tokai Yakkyoku/GENKY
+西中島,ja,西中島
+西中島,ja-Hrkt,にしなかじま
+西中島,en,Nishinakajima
+西中島新屋敷,ja,西中島新屋敷
+西中島新屋敷,ja-Hrkt,にしなかじましんやしき
+西中島新屋敷,en,Nishinakajima Shinyashiki
+西友岐阜華陽店,ja,西友岐阜華陽店
+西友岐阜華陽店,ja-Hrkt,せいゆうぎふかようてん
+西友岐阜華陽店,en,SEIYU Gifukayoten
+西友改田店,ja,西友改田店
+西友改田店,ja-Hrkt,せいゆうかいでんてん
+西友改田店,en,SEIYU Kaidenten
+西山,ja,西山
+西山,ja-Hrkt,にしやま
+西山,en,Nishiyama
+西山（長良）,ja,西山（長良）
+西山（長良）,ja-Hrkt,にしやま
+西山（長良）,en,Nishiyama
+西山口,ja,西山口
+西山口,ja-Hrkt,にしやまぐち
+西山口,en,Nishiyama-guchi
+西岐阜駅南口,ja,西岐阜駅南口
+西岐阜駅南口,ja-Hrkt,にしぎふえきみなみぐち
+西岐阜駅南口,en,JR Nishigifu Sta.-south entrance
+西改田先道,ja,西改田先道
+西改田先道,ja-Hrkt,にしかいでんせんどう
+西改田先道,en,Nishikaiden Sendo
+西改田村前,ja,西改田村前
+西改田村前,ja-Hrkt,にしかいでんむらまえ
+西改田村前,en,Nishikaiden Muramae
+西改田松の木,ja,西改田松の木
+西改田松の木,ja-Hrkt,にしかいでんまつのき
+西改田松の木,en,Nishikaiden Matsunoki
+西改田若宮,ja,西改田若宮
+西改田若宮,ja-Hrkt,にしかいでんわかみや
+西改田若宮,en,Nishikaiden Wakamiya
+西木田,ja,西木田
+西木田,ja-Hrkt,にしきだ
+西木田,en,Nishikida
+西木田公民館前,ja,西木田公民館前
+西木田公民館前,ja-Hrkt,にしきだこうみんかんまえ
+西木田公民館前,en,Nishikida Kominkan-mae
+西琴塚,ja,西琴塚
+西琴塚,ja-Hrkt,にしことづか
+西琴塚,en,Nishikotozuka
+西町公民館,ja,西町公民館
+西町公民館,ja-Hrkt,にしまちこうみんかん
+西町公民館,en,Nishimachi Kominkan
+西荘4丁目,ja,西荘4丁目
+西荘4丁目,ja-Hrkt,にしのしょうよんちょうめ
+西荘4丁目,en,Nishinosho-yonchome(Nishinosho 4)
+西部事務所,ja,西部事務所
+西部事務所,ja-Hrkt,せいぶじむしょ
+西部事務所,en,Seibu Jimusho(Western Office)
+西郷保育所前,ja,西郷保育所前
+西郷保育所前,ja-Hrkt,さいごうほいくじょまえ
+西郷保育所前,en,Saigo Hoikujo-mae(Saigo Kindergarten)
+西郷小学校北,ja,西郷小学校北
+西郷小学校北,ja-Hrkt,さいごうしょうがっこうきた
+西郷小学校北,en,Saigo Shogakko-kita(Saigo Elementary School)
+西領下,ja,西領下
+西領下,ja-Hrkt,にしりょうげ
+西領下,en,Nishiryoge
+観音寺・猿田彦神社前,ja,観音寺・猿田彦神社前
+観音寺・猿田彦神社前,ja-Hrkt,かんのんじ・さるたひこじんじゃまえ
+観音寺・猿田彦神社前,en,Kannonji/Sarutahikojinja-mae
+誓源寺前,ja,誓源寺前
+誓源寺前,ja-Hrkt,せいげんじまえ
+誓源寺前,en,Seigenji-mae
+諏訪,ja,諏訪
+諏訪,ja-Hrkt,すわ
+諏訪,en,Suwa
+諏訪山1,ja,諏訪山1
+諏訪山1,ja-Hrkt,すわやまいち
+諏訪山1,en,Suwayama-ichi(Suwayama 1)
+諏訪山2,ja,諏訪山2
+諏訪山2,ja-Hrkt,すわやまに
+諏訪山2,en,Suwayama-ni(Suwayama 2)
+諏訪山3,ja,諏訪山3
+諏訪山3,ja-Hrkt,すわやまさん
+諏訪山3,en,Suwayama-san(Suwayama 3)
+諏訪山口,ja,諏訪山口
+諏訪山口,ja-Hrkt,すわやまぐち
+諏訪山口,en,Suwayama-guchi
+貢毛,ja,貢毛
+貢毛,ja-Hrkt,こうげ
+貢毛,en,Koge
+赤十字血液センター西,ja,赤十字血液センター西
+赤十字血液センター西,ja-Hrkt,せきじゅうじけつえきせんたーにし
+赤十字血液センター西,en,Sekijuji Ketsueki Center-nishi
+近石病院,ja,近石病院
+近石病院,ja-Hrkt,ちかいしびょういん
+近石病院,en,Chikaishi Byoin(Chikaishi Hospital)
+那加日新町,ja,那加日新町
+那加日新町,ja-Hrkt,なかにっしんちょう
+那加日新町,en,Nakanisshincho
+里一号公民館前,ja,里一号公民館前
+里一号公民館前,ja-Hrkt,さといちごうこうみんかんまえ
+里一号公民館前,en,Sato Ichigo Kominkan-mae
+野一色4丁目,ja,野一色4丁目
+野一色4丁目,ja-Hrkt,のいっしきよんちょうめ
+野一色4丁目,en,Noisshiki-yonchome(Noisshiki 4)
+野一色5丁目東,ja,野一色5丁目東
+野一色5丁目東,ja-Hrkt,のいっしきごちょうめひがし
+野一色5丁目東,en,Noisshiki-gochome-higashi(Noisshiki 5)
+野田口,ja,野田口
+野田口,ja-Hrkt,のだぐち
+野田口,en,Noda-guchi
+野畑北,ja,野畑北
+野畑北,ja-Hrkt,のばたきた
+野畑北,en,Nobata-kita
+野畑南,ja,野畑南
+野畑南,ja-Hrkt,のばたみなみ
+野畑南,en,Nobata-minami
+金生堂前,ja,金生堂前
+金生堂前,ja-Hrkt,きんしょうどうまえ
+金花堂鍼灸整骨院前,ja,金花堂鍼灸整骨院前
+金花堂鍼灸整骨院前,ja-Hrkt,きんかどうしんきゅうせいこついんまえ
+金花堂鍼灸整骨院前,en,Kinkado Shinkyu Seikotsuin-mae
+鈴道,ja,鈴道
+鈴道,ja-Hrkt,すずみち
+鈴道,en,Suzumichi
+鏡島弘法,ja,鏡島弘法
+鏡島弘法,ja-Hrkt,かがしまこうぼう
+鏡島弘法,en,Kagashima Kobo
+長森コミュニティセンター,ja,長森コミュニティセンター
+長森コミュニティセンター,ja-Hrkt,ながもりこみゅにてぃせんたー
+長森コミュニティセンター,en,Nagamori Community Center
+長森ポンプ場,ja,長森ポンプ場
+長森ポンプ場,ja-Hrkt,ながもりぽんぷじょう
+長森ポンプ場,en,Nagamori Pump Station
+長森南交番,ja,長森南交番
+長森南交番,ja-Hrkt,ながもりみなみこうばん
+長森南交番,en,Nagamoriminami Koban(Nagamoriminami Police Box)
+長森本町北,ja,長森本町北
+長森本町北,ja-Hrkt,ながもりほんまちきた
+長森本町北,en,Nagamorihommachi-kita
+長森駅,ja,長森駅
+長森駅,ja-Hrkt,ながもりえき
+長森駅,en,Nagamori Eki(Nagamori Sta.)
+長良北町,ja,長良北町
+長良北町,ja-Hrkt,ながらきたまち
+長良北町,en,Nagarakitamachi
+長良医療センター,ja,長良医療センター
+長良医療センター,ja-Hrkt,ながらいりょうせんたー
+長良医療センター,en,Nagara Iryo Center(NAGARA Medical Center)
+長良台,ja,長良台
+長良台,ja-Hrkt,ながらだい
+長良台,en,Nagaradai
+長良大路,ja,長良大路
+長良大路,ja-Hrkt,ながらおおじ
+長良大路,en,Nagaraoji
+長良宮口町,ja,長良宮口町
+長良宮口町,ja-Hrkt,ながらみやぐちちょう
+長良宮口町,en,Nagaramiyaguchicho
+長良川国際会議場,ja,長良川国際会議場
+長良川国際会議場,ja-Hrkt,ながらがわこくさいかいぎじょう
+長良川国際会議場,en,Nagaragawa Kokusaikaigijo(Nagaragawa Convention Center)
+長良東,ja,長良東
+長良東,ja-Hrkt,ながらひがし
+長良東,en,Nagara-higashi
+長良東郷町,ja,長良東郷町
+長良東郷町,ja-Hrkt,ながらとうごうちょう
+長良東郷町,en,Nagaratogocho
+長良福泉,ja,長良福泉
+長良福泉,ja-Hrkt,ながらふくいずみ
+長良福泉,en,Nagarafukuizumi
+長良竜東町2丁目,ja,長良竜東町2丁目
+長良竜東町2丁目,ja-Hrkt,ながらりゅうとうちょうにちょうめ
+長良竜東町2丁目,en,Nagararyutocho-nichome(Nagararyutocho 2)
+長良竜東町4丁目,ja,長良竜東町4丁目
+長良竜東町4丁目,ja-Hrkt,ながらりゅうとうちょうよんちょうめ
+長良竜東町4丁目,en,Nagararyutocho-yonchome(Nagararyutocho 4)
+長良西小,ja,長良西小
+長良西小,ja-Hrkt,ながらにししょう
+長良西小,en,Nagaranishi Sho(Nagaranishi Elementary School)
+長良高校前,ja,長良高校前
+長良高校前,ja-Hrkt,ながらこうこうまえ
+長良高校前,en,Nagara Koko-mae(Nagara High School)
+長良高見,ja,長良高見
+長良高見,ja-Hrkt,ながらたかみ
+長良高見,en,Nagaratakami
+阿弥陀寺,ja,阿弥陀寺
+阿弥陀寺,ja-Hrkt,あみだじ
+阿弥陀寺,en,Amidaji
+附属小・中学校,ja,附属小・中学校
+附属小・中学校,ja-Hrkt,ふぞくしょう・ちゅうがっこう
+附属小・中学校,en,Fuzoku Sho/Chugakko(Affiliated Elementary School & Junior High School-Faculty of Education-Gifu Univ)
+雄日ヶ丘公園東,ja,雄日ヶ丘公園東
+雄日ヶ丘公園東,ja-Hrkt,ゆうひがおかこうえんひがし
+雄日ヶ丘公園東,en,Yuhigaoka Koen-higashi(Yuhigaoka Park)
+雄日ヶ丘公園西,ja,雄日ヶ丘公園西
+雄日ヶ丘公園西,ja-Hrkt,ゆうひがおかこうえんにし
+雄日ヶ丘公園西,en,Yuhigaoka Koen-nishi(Yuhigaoka Park)
+雄総台東,ja,雄総台東
+雄総台東,ja-Hrkt,おぶさだいひがし
+雄総台東,en,Obusadai-higashi
+雄総台西,ja,雄総台西
+雄総台西,ja-Hrkt,おぶさだいにし
+雄総台西,en,Obusadai-nishi
+雄総柳町,ja,雄総柳町
+雄総柳町,ja-Hrkt,おぶさやなぎまち
+雄総柳町,en,Obusa Yanagimachi
+雄総桜町,ja,雄総桜町
+雄総桜町,ja-Hrkt,おぶささくらまち
+雄総桜町,en,Obusa Sakuramachi
+雄総緑町2丁目,ja,雄総緑町2丁目
+雄総緑町2丁目,ja-Hrkt,おぶさみどりまちにちょうめ
+雄総緑町2丁目,en,Obusa Midorimachi-nichome(Obusa Midorimachi 2)
+雄総緑町４丁目,ja,雄総緑町４丁目
+雄総緑町４丁目,ja-Hrkt,おぶさみどりまちよんちょうめ
+雄総緑町４丁目,en,Obusa Midorimachi-yonchome(Obusa Midorimachi 4)
+雲井町,ja,雲井町
+雲井町,ja-Hrkt,くもいちょう
+雲井町,en,Kumoicho
+霊松院前,ja,霊松院前
+霊松院前,ja-Hrkt,れいしょういんまえ
+霊松院前,en,Reishoin-mae
+青山会館東,ja,青山会館東
+青山会館東,ja-Hrkt,せいざんかいかんひがし
+青山会館東,en,Seizankaikan-higashi
+青山眼科前,ja,青山眼科前
+青山眼科前,ja-Hrkt,あおやまがんかまえ
+青山眼科前,en,Aoyama Ganka-mae
+青木内科眼科,ja,青木内科眼科
+青木内科眼科,ja-Hrkt,あおきないかがんか
+青木内科眼科,en,Aoki NaikaGanka
+須賀2丁目,ja,須賀2丁目
+須賀2丁目,ja-Hrkt,すがにちょうめ
+須賀2丁目,en,Suga-nichome(Suga 2)
+須賀3丁目,ja,須賀3丁目
+須賀3丁目,ja-Hrkt,すがさんちょうめ
+須賀3丁目,en,Suga-sanchome(Suga 3)
+須賀4丁目,ja,須賀4丁目
+須賀4丁目,ja-Hrkt,すがよんちょうめ
+須賀4丁目,en,Suga-yonchome(Suga 4)
+須賀4丁目北,ja,須賀4丁目北
+須賀4丁目北,ja-Hrkt,すがよんちょうめきた
+須賀4丁目北,en,Suga-yonchome-kita(Suga 4)
+領下八幡神社,ja,領下八幡神社
+領下八幡神社,ja-Hrkt,りょうげはちまんじんじゃ
+領下八幡神社,en,Ryoge Hachimanjinja
+領下郵便局,ja,領下郵便局
+領下郵便局,ja-Hrkt,りょうげゆうびんきょく
+領下郵便局,en,Ryoge Yubinkyoku(Ryoge Post Office)
+馬場,ja,馬場
+馬場,ja-Hrkt,ばんば
+馬場,en,Bamba
+高桑コミュニティ会館,ja,高桑コミュニティ会館
+高桑コミュニティ会館,ja-Hrkt,たかくわこみゅにてぃかいかん
+高桑コミュニティ会館,en,Takakuwa Community Kaikan
+高津整形・Ｖドラッグ前,ja,高津整形・Ｖドラッグ前
+高津整形・Ｖドラッグ前,ja-Hrkt,たかつせいけい・ぶいどらっぐまえ
+高津整形・Ｖドラッグ前,en,Takatsu Seikei/V Drug-mae
+高田東,ja,高田東
+高田東,ja-Hrkt,たかだひがし
+高田東,en,Takada-higashi
+高田橋,ja,高田橋
+高田橋,ja-Hrkt,たかだばし
+高田橋,en,Takadabashi(Takada Bridge)
+高田遺跡前,ja,高田遺跡前
+高田遺跡前,ja-Hrkt,たかだいせきまえ
+高田遺跡前,en,Takada Iseki-mae
+高齢者福祉センター,ja,高齢者福祉センター
+高齢者福祉センター,ja-Hrkt,こうれいしゃふくしせんたー
+高齢者福祉センター,en,Koreisha Fukushi Center
+鵜飼大橋北,ja,鵜飼大橋北
+鵜飼大橋北,ja-Hrkt,うかいおおはしきた
+鵜飼大橋北,en,Ukai Ohashi-kita(Ukai Bridge)
+鶉公民館前,ja,鶉公民館前
+鶉公民館前,ja-Hrkt,うずらこうみんかんまえ
+鶉公民館前,en,Uzura Kominkan-mae
+鶉小学校前,ja,鶉小学校前
+鶉小学校前,ja-Hrkt,うずらしょうがっこうまえ
+鶉小学校前,en,Uzura Shogakko-mae(Uzura Elementary School)
+鶴山霊園前【北側】,ja,鶴山霊園前【北側】
+鶴山霊園前【北側】,ja-Hrkt,つるやまれいえんまえ（きたがわ）
+鶴山霊園前【北側】,en,Tsuruyamareien-mae(north)
+鶴山霊園前【南側】,ja,鶴山霊園前【南側】
+鶴山霊園前【南側】,ja-Hrkt,つるやまれいえんまえ（みなみがわ）
+鶴山霊園前【南側】,en,Tsuruyamareien-mae(south)
+鶴田町2丁目,ja,鶴田町2丁目
+鶴田町2丁目,ja-Hrkt,つるたまちにちょうめ
+鶴田町2丁目,en,Tsurutamachi-nichome(Tsurutamachi 2)
+鷺山保育所,ja,鷺山保育所
+鷺山保育所,ja-Hrkt,さぎやまほいくじょ
+鷺山保育所,en,Sagiyama Hoikujo(Sagiyama Kindergarten)
+鷺山北公園,ja,鷺山北公園
+鷺山北公園,ja-Hrkt,さぎやまきたこうえん
+鷺山北公園,en,Sagiyamakita Koen(Sagiyamakita Park)
+鷺山玉川町,ja,鷺山玉川町
+鷺山玉川町,ja-Hrkt,さぎやまたまがわちょう
+鷺山玉川町,en,Sagiyama Tamagawacho
+鷺山白鷺町,ja,鷺山白鷺町
+鷺山白鷺町,ja-Hrkt,さぎやましらさぎちょう
+鷺山白鷺町,en,Sagiyama Shirasagicho
+黒木橋,ja,黒木橋
+黒木橋,ja-Hrkt,くろきばし
+黒木橋,en,Kurokibashi(Kuroki Bridge)
+黒野コーポ南,ja,黒野コーポ南
+黒野コーポ南,ja-Hrkt,くろのこーぽみなみ
+黒野コーポ南,en,Kurono Kopo-minami(Kurono Corporated House)
+黒野こども園北口,ja,黒野こども園北口
+黒野こども園北口,ja-Hrkt,くろのこどもえんきたぐち
+黒野こども園北口,en,Kurono Kodomoen-kitaguchi(Kurono Kindergarten)
+黒野こども園西,ja,黒野こども園西
+黒野こども園西,ja-Hrkt,くろのこどもえんにし
+黒野こども園西,en,Kurono Kodomoen-nishi(Kurono Kindergarten)
+黒野会館前,ja,黒野会館前
+黒野会館前,ja-Hrkt,くろのかいかんまえ
+黒野会館前,en,Kurono Kaikan-mae
+黒野城跡前,ja,黒野城跡前
+黒野城跡前,ja-Hrkt,くろのじょうしまえ
+黒野城跡前,en,Kuronojoshi-mae(Kurono Castle Ruin)
+黒野小学校北口,ja,黒野小学校北口
+黒野小学校北口,ja-Hrkt,くろのしょうがっこうきたぐち
+黒野小学校北口,en,Kurono Shogakko-kitaguchi(Kurono Elementary School)
+黒野小学校南,ja,黒野小学校南
+黒野小学校南,ja-Hrkt,くろのしょうがっこうみなみ
+黒野小学校南,en,Kurono Shogakko-minami(Kurono Elementary School)
+黒野病院前,ja,黒野病院前
+黒野病院前,ja-Hrkt,くろのびょういんまえ
+黒野病院前,en,Kurono Byoin-mae(Kurono Hospital)
+シャトル便　県庁経由県民ふれあい会館前,ja,シャトル便　県庁経由県民ふれあい会館前
+シャトル便　県庁経由県民ふれあい会館前,en,Shuttle Gifu Prefectural Office/Gifu Fureai Plaza
+シャトル便　県庁経由西岐阜駅南口,ja,シャトル便　県庁経由西岐阜駅南口
+シャトル便　県庁経由西岐阜駅南口,en,Shuttle Gifu Prefectural Office/JR Nishigifu Sta.-south entrance
+シャトル便　県民ふれあい会館前,ja,シャトル便　県民ふれあい会館前
+シャトル便　県民ふれあい会館前,en,Shuttle Gifu Fureai Plaza
+シャトル便　西岐阜駅南口,ja,シャトル便　西岐阜駅南口
+シャトル便　西岐阜駅南口,en,Shuttle JR Nishigifu Sta.-south entrance
+トミダヤ島店経由マーサ南口,ja,トミダヤ島店経由マーサ南口
+トミダヤ島店経由マーサ南口,en,Tomidaya Shimaten/MASA-south entrance
+バロー岩田店（バロー芥見店には行きません）,ja,バロー岩田店（バロー芥見店には行きません）
+バロー岩田店（バロー芥見店には行きません）,en,Valor Iwataten(Don't go to Valor Akutamiten)
+バロー岩田店・バロー芥見店,ja,バロー岩田店・バロー芥見店
+バロー岩田店・バロー芥見店,en,Valor Iwataten/Valor Akutamiten
+バロー芥見店経由ドルフィンスイミングスクール,ja,バロー芥見店経由ドルフィンスイミングスクール
+バロー芥見店経由ドルフィンスイミングスクール,en,Valor Akutamiten/Dolphin Swimming School
+バロー芥見店経由岐阜信用金庫前,ja,バロー芥見店経由岐阜信用金庫前
+バロー芥見店経由岐阜信用金庫前,en,Valor Akutamiten/Gifushinyokinko-mae
+バロー長良店経由平和堂,ja,バロー長良店経由平和堂
+バロー長良店経由平和堂,en,Valor Nagaraten/HEIWADO
+上り　三田洞神仏温泉経由岐北厚生病院,ja,上り　三田洞神仏温泉経由岐北厚生病院
+上り　三田洞神仏温泉経由岐北厚生病院,en,Inbound line Mitahora Shimbutsu Onsen/Gihoku Kosei Hospital
+上り　岐北厚生病院,ja,上り　岐北厚生病院
+上り　岐北厚生病院,en,Inbound line Gihoku Kosei Hospital
+上り　岐北厚生病院（神仏温泉には行きません）,ja,上り　岐北厚生病院（神仏温泉には行きません）
+上り　岐北厚生病院（神仏温泉には行きません）,en,Inbound line Gihoku Kosei Hospital(Don't go to Mitahora Shimbutsu Onsen)
+下り　三田洞神仏温泉経由岐阜ファミリーパーク,ja,下り　三田洞神仏温泉経由岐阜ファミリーパーク
+下り　三田洞神仏温泉経由岐阜ファミリーパーク,en,Outbound line Mitahora Shimbutsu Onsen/Gifu Family Park
+下り　岐阜ファミリーパーク,ja,下り　岐阜ファミリーパーク
+下り　岐阜ファミリーパーク,en,Outbound line Gifu Family Park
+下り　岐阜ファミリーパーク（神仏温泉には行きません）,ja,下り　岐阜ファミリーパーク（神仏温泉には行きません）
+下り　岐阜ファミリーパーク（神仏温泉には行きません）,en,Outbound line Gifu Family Park(Don't go to Mitahora Shimbutsu Onsen)
+八幡神社前・森田整形外科経由バロー芥見店,ja,八幡神社前・森田整形外科経由バロー芥見店
+八幡神社前・森田整形外科経由バロー芥見店,en,Hachimanjinja-mae/Morita Seikeigeka/Valor Akutamiten
+北回り　バロー芥見店,ja,北回り　バロー芥見店
+北回り　バロー芥見店,en,Northward Valor Akutamiten
+北東部コミセン経由藍川橋・大野はり灸前,ja,北東部コミセン経由藍川橋・大野はり灸前
+北東部コミセン経由藍川橋・大野はり灸前,en,Hokutobu Community Center/Aikawa Bridge/Ono Harikyu-mae
+南回り　バロー芥見店,ja,南回り　バロー芥見店
+南回り　バロー芥見店,en,Southward Valor Akutamiten
+右回り　ＪＲ岐阜駅南口,ja,右回り　ＪＲ岐阜駅南口
+右回り　ＪＲ岐阜駅南口,en,Clock Wise JR Gifu Sta.-south entrance
+右回り　イオン各務原店,ja,右回り　イオン各務原店
+右回り　イオン各務原店,en,Clock Wise AEON Kakamigaharaten
+右回り　オーキッドパーク・メガドンキ前・県図書館経由市民病院北口,ja,右回り　オーキッドパーク・メガドンキ前・県図書館経由市民病院北口
+右回り　オーキッドパーク・メガドンキ前・県図書館経由市民病院北口,en,Clock Wise Orchidpark/MEGA Don Quijote/Gifu Prefectural Library/Gifu Municipal Hospital
+右回り　ハローワーク経由ＪＲ岐阜駅南口,ja,右回り　ハローワーク経由ＪＲ岐阜駅南口
+右回り　ハローワーク経由ＪＲ岐阜駅南口,en,Clock Wise HelloWork/JR Gifu Sta.-south entrance
+右回り　マーサ南口,ja,右回り　マーサ南口
+右回り　マーサ南口,en,Clock Wise
+右回り　メガドンキ前・県図書館経由市民病院北口,ja,右回り　メガドンキ前・県図書館経由市民病院北口
+右回り　メガドンキ前・県図書館経由市民病院北口,en,Clock Wise MEGA Don Quijote/Gifu Prefectural Library/Gifu Municipal Hospital
+右回り　市民病院北口,ja,右回り　市民病院北口
+右回り　市民病院北口,en,Clock Wise Gifu Municipal Hospital
+右回り　手力公民館・細畑中経由県総合医療センター,ja,右回り　手力公民館・細畑中経由県総合医療センター
+右回り　手力公民館・細畑中経由県総合医療センター,en,Clock Wise Tejikara Kominkan/Hosobatanaka/Gifu Prefectural General Medical Center
+右回り　斎苑・ハローワーク経由ＪＲ岐阜駅南口,ja,右回り　斎苑・ハローワーク経由ＪＲ岐阜駅南口
+右回り　斎苑・ハローワーク経由ＪＲ岐阜駅南口,en,Clock Wise Gifushi Crematorium/HelloWork/JR Gifu Sta.-south entrance
+右回り　柳ヶ瀬・斎苑・ハローワーク経由ＪＲ岐阜駅南口,ja,右回り　柳ヶ瀬・斎苑・ハローワーク経由ＪＲ岐阜駅南口
+右回り　柳ヶ瀬・斎苑・ハローワーク経由ＪＲ岐阜駅南口,en,Clock Wise Yanagase/Gifushi Crematorium/HelloWork/JR Gifu Sta.-south entrance
+右回り　椿洞経由マーサ南口,ja,右回り　椿洞経由マーサ南口
+右回り　椿洞経由マーサ南口,en,Clock Wise Tsubakibora/MASA-south entrance
+右回り　県図書館経由市民病院北口,ja,右回り　県図書館経由市民病院北口
+右回り　県図書館経由市民病院北口,en,Clock Wise Gifu Prefectural Library/Gifu Municipal Hospital
+右回り　県総合医療センター,ja,右回り　県総合医療センター
+右回り　県総合医療センター,en,Clock Wise Gifu Prefectural General Medical Center
+右回り　細畑中経由県総合医療センター,ja,右回り　細畑中経由県総合医療センター
+右回り　細畑中経由県総合医療センター,en,Clock Wise Hosobatanaka/Gifu Prefectural General Medical Center
+右回り　赤ルート（岩野田）　サンマート経由バロー粟野店,ja,右回り　赤ルート（岩野田）　サンマート経由バロー粟野店
+右回り　赤ルート（岩野田）　サンマート経由バロー粟野店,en,Clock Wise/Red route(Iwanoda) Sunmart/Valor Awanoten
+右回り　赤ルート（岩野田）　バロー粟野店,ja,右回り　赤ルート（岩野田）　バロー粟野店
+右回り　赤ルート（岩野田）　バロー粟野店,en,Clock Wise/Red route(Iwanoda) Valor Awanoten
+右回り　赤ルート（岩野田）　三田洞神仏温泉・サンマート経由バロー粟野店,ja,右回り　赤ルート（岩野田）　三田洞神仏温泉・サンマート経由バロー粟野店
+右回り　赤ルート（岩野田）　三田洞神仏温泉・サンマート経由バロー粟野店,en,Clock Wise/Red route(Iwanoda) Mitahora Shimbutsu Onsen/Sunmart/Valor Awanoten
+右回り　長森駅・高田橋経由イオン各務原店,ja,右回り　長森駅・高田橋経由イオン各務原店
+右回り　長森駅・高田橋経由イオン各務原店,en,Clock Wise Nagamori Sta./Takadabashi/AEON Kakamigaharaten
+右回り　青ルート（岩野田北）　バロー粟野店,ja,右回り　青ルート（岩野田北）　バロー粟野店
+右回り　青ルート（岩野田北）　バロー粟野店,en,Clock Wise/Blue route(Iwanoda-kita) Valor Awanoten
+右回り　青ルート（岩野田北）　岐北厚生病院経由バロー粟野店,ja,右回り　青ルート（岩野田北）　岐北厚生病院経由バロー粟野店
+右回り　青ルート（岩野田北）　岐北厚生病院経由バロー粟野店,en,Clock Wise/Blue route(Iwanoda-kita) Gihoku Kosei Hospital/Valor Awanoten
+右回り　高田橋経由イオン各務原店,ja,右回り　高田橋経由イオン各務原店
+右回り　高田橋経由イオン各務原店,en,Clock Wise Takadabashi/AEON Kakamigaharaten
+右回り　黒野会館経由黒野病院前,ja,右回り　黒野会館経由黒野病院前
+右回り　黒野会館経由黒野病院前,en,Clock Wise Kurono Kaikan/Kurono Hospital
+右回り　黒野病院前,ja,右回り　黒野病院前
+右回り　黒野病院前,en,Clock Wise Kurono Hospital
+岐阜清流病院経由マーサ南口,ja,岐阜清流病院経由マーサ南口
+岐阜清流病院経由マーサ南口,en,Gifu Seiryu Hospital/MASA-south entrance
+岩田坂北町経由バロー岩田店・バロー芥見店,ja,岩田坂北町経由バロー岩田店・バロー芥見店
+岩田坂北町経由バロー岩田店・バロー芥見店,en,Iwatazaka Kitamachi/Valor Iwataten/Valor Akutamiten
+左回り　ＪＲ岐阜駅南口,ja,左回り　ＪＲ岐阜駅南口
+左回り　ＪＲ岐阜駅南口,en,Counter Clock Wise JR Gifu Sta.-south entrance
+左回り　イオン各務原,ja,左回り　イオン各務原
+左回り　イオン各務原,en,Counter Clock Wise AEON Kakamigaharaten
+左回り　オーキッドパーク経由市民病院北口,ja,左回り　オーキッドパーク経由市民病院北口
+左回り　オーキッドパーク経由市民病院北口,en,Counter Clock Wise Orchidpark/Gifu Municipal Hospital
+左回り　ハローワーク・斎苑・柳ヶ瀬経由ＪＲ岐阜駅南口,ja,左回り　ハローワーク・斎苑・柳ヶ瀬経由ＪＲ岐阜駅南口
+左回り　ハローワーク・斎苑・柳ヶ瀬経由ＪＲ岐阜駅南口,en,Counter Clock Wise HelloWork/Gifushi Crematorium/Yanagase/JR Gifu Sta.-south entrance
+左回り　マーサ南口,ja,左回り　マーサ南口
+左回り　マーサ南口,en,Counter Clock Wise
+左回り　メガドンキ前・オーキッドパーク経由市民病院北口,ja,左回り　メガドンキ前・オーキッドパーク経由市民病院北口
+左回り　メガドンキ前・オーキッドパーク経由市民病院北口,en,Counter Clock Wise MEGA Don Quijote/Orchidpark/Gifu Municipal Hospital
+左回り　市民病院北口,ja,左回り　市民病院北口
+左回り　市民病院北口,en,Counter Clock Wise Gifu Municipal Hospital
+左回り　手力公民館経由イオン各務原,ja,左回り　手力公民館経由イオン各務原
+左回り　手力公民館経由イオン各務原,en,Counter Clock Wise Tejikara Kominkan/AEON Kakamigaharaten
+左回り　斎苑・柳ヶ瀬経由ＪＲ岐阜駅南口,ja,左回り　斎苑・柳ヶ瀬経由ＪＲ岐阜駅南口
+左回り　斎苑・柳ヶ瀬経由ＪＲ岐阜駅南口,en,Counter Clock Wise Gifushi Crematorium/Yanagase/JR Gifu Sta.-south entrance
+左回り　柳ヶ瀬経由ＪＲ岐阜駅南口,ja,左回り　柳ヶ瀬経由ＪＲ岐阜駅南口
+左回り　柳ヶ瀬経由ＪＲ岐阜駅南口,en,Counter Clock Wise Yanagase/JR Gifu Sta.-south entrance
+左回り　椿洞経由マーサ南口,ja,左回り　椿洞経由マーサ南口
+左回り　椿洞経由マーサ南口,en,Counter Clock Wise Tsubakibora/MASA-south entrance
+左回り　県図書館・メガドンキ前・オーキッドパーク経由市民病院北口,ja,左回り　県図書館・メガドンキ前・オーキッドパーク経由市民病院北口
+左回り　県図書館・メガドンキ前・オーキッドパーク経由市民病院北口,en,Counter Clock Wise Gifu Prefectural Library/MEGA Don Quijote/Orchidpark/Gifu Municipal Hospital
+左回り　県総合医療センター,ja,左回り　県総合医療センター
+左回り　県総合医療センター,en,Counter Clock Wise Gifu Prefectural General Medical Center
+左回り　細畑中・手力公民館経由イオン各務原,ja,左回り　細畑中・手力公民館経由イオン各務原
+左回り　細畑中・手力公民館経由イオン各務原,en,Counter Clock Wise Hosobatanaka/Tejikara Kominkan/AEON Kakamigaharaten
+左回り　赤ルート（岩野田）　サンマート・三田洞神仏温泉経由バロー粟野店,ja,左回り　赤ルート（岩野田）　サンマート・三田洞神仏温泉経由バロー粟野店
+左回り　赤ルート（岩野田）　サンマート・三田洞神仏温泉経由バロー粟野店,en,Counter Clock Wise/Red route(Iwanoda) Sunmart/Mitahora Shimbutsu Onsen/Valor Awanoten
+左回り　赤ルート（岩野田）　バロー粟野店,ja,左回り　赤ルート（岩野田）　バロー粟野店
+左回り　赤ルート（岩野田）　バロー粟野店,en,Counter Clock Wise/Red route(Iwanoda) Valor Awanoten
+左回り　赤ルート（岩野田）　三田洞神仏温泉経由バロー粟野店,ja,左回り　赤ルート（岩野田）　三田洞神仏温泉経由バロー粟野店
+左回り　赤ルート（岩野田）　三田洞神仏温泉経由バロー粟野店,en,Counter Clock Wise/Red route(Iwanoda) Mitahora Shimbutsu Onsen/Valor Awanoten
+左回り　長森駅経由県総合医療センター,ja,左回り　長森駅経由県総合医療センター
+左回り　長森駅経由県総合医療センター,en,Counter Clock Wise Nagamori Sta./Gifu Prefectural General Medical Center
+左回り　青ルート（岩野田北）　バロー粟野店,ja,左回り　青ルート（岩野田北）　バロー粟野店
+左回り　青ルート（岩野田北）　バロー粟野店,en,Counter Clock Wise/Blue route(Iwanoda-kita) Valor Awanoten
+左回り　青ルート（岩野田北）　岐北厚生病院経由バロー粟野店,ja,左回り　青ルート（岩野田北）　岐北厚生病院経由バロー粟野店
+左回り　青ルート（岩野田北）　岐北厚生病院経由バロー粟野店,en,Counter Clock Wise/Blue route(Iwanoda-kita) Gihoku Kosei Hospital/Valor Awanoten
+左回り　高田橋・長森駅経由県総合医療センター,ja,左回り　高田橋・長森駅経由県総合医療センター
+左回り　高田橋・長森駅経由県総合医療センター,en,Counter Clock Wise Takadabashi/Nagamori Sta./Gifu Prefectural General Medical Center
+左回り　黒野こども園西,ja,左回り　黒野こども園西
+左回り　黒野こども園西,en,Counter Clock Wise Kurono Kindergarten
+左回り　黒野会館経由黒野こども園西,ja,左回り　黒野会館経由黒野こども園西
+左回り　黒野会館経由黒野こども園西,en,Counter Clock Wise Kurono Kaikan/Kurono Kindergarten
+左回り　黒野会館経由黒野病院前,ja,左回り　黒野会館経由黒野病院前
+左回り　黒野会館経由黒野病院前,en,Counter Clock Wise Kurono Kaikan/Kurono Hospital
+左回り　黒野病院前,ja,左回り　黒野病院前
+左回り　黒野病院前,en,Counter Clock Wise Kurono Hospital
+市民病院経由西岐阜駅南口,ja,市民病院経由西岐阜駅南口
+市民病院経由西岐阜駅南口,en,Gifu Municipal Hospital/JR Nishigifu Sta.-south entrance
+平和堂経由バロー北一色店,ja,平和堂経由バロー北一色店
+平和堂経由バロー北一色店,en,HEIWADO/Valor Kitaisshikiten
+忠節・トミダヤ島店経由マーサ南口,ja,忠節・トミダヤ島店経由マーサ南口
+忠節・トミダヤ島店経由マーサ南口,en,Chusetsu/Tomidaya Shimaten/MASA-south entrance
+忠節・岐阜赤十字病院経由マーサ南口,ja,忠節・岐阜赤十字病院経由マーサ南口
+忠節・岐阜赤十字病院経由マーサ南口,en,Chusetsu/Gifu Sekijuji Hospital/MASA-south entrance
+東回り　ＪＲ岐阜駅南口,ja,東回り　ＪＲ岐阜駅南口
+東回り　ＪＲ岐阜駅南口,en,Clock Wise JR Gifu Sta.-south entrance
+東回り　メガドンキ前経由ＪＲ岐阜駅南口,ja,東回り　メガドンキ前経由ＪＲ岐阜駅南口
+東回り　メガドンキ前経由ＪＲ岐阜駅南口,en,Clock Wise MEGA Don Quijote/JR Gifu Sta.-south entrance
+東回り　加納高校・メガドンキ前経由ＪＲ岐阜駅南口,ja,東回り　加納高校・メガドンキ前経由ＪＲ岐阜駅南口
+東回り　加納高校・メガドンキ前経由ＪＲ岐阜駅南口,en,Clock Wise Kano High School/MEGA Don Quijote/JR Gifu Sta.-south entrance
+東回り　加納高校・メガドンキ前経由ＪＲ岐阜駅南口（南部コミセンには行きません）,ja,東回り　加納高校・メガドンキ前経由ＪＲ岐阜駅南口（南部コミセンには行きません）
+東回り　加納高校・メガドンキ前経由ＪＲ岐阜駅南口（南部コミセンには行きません）,en,Clock Wise Kano High School/MEGA Don Quijote/JR Gifu Sta.-south entrance(Don't go to Nambu Community Center)
+東回り　南部コミセン・加納高校・メガドンキ前経由ＪＲ岐阜駅南口,ja,東回り　南部コミセン・加納高校・メガドンキ前経由ＪＲ岐阜駅南口
+東回り　南部コミセン・加納高校・メガドンキ前経由ＪＲ岐阜駅南口,en,Clock Wise Nambu Komisen/Kano High School/MEGA Don Quijote/JR Gifu Sta.-south entrance
+東部コミセン経由バロー岩田店,ja,東部コミセン経由バロー岩田店
+東部コミセン経由バロー岩田店,en,Tobu Community Center/Valor Iwataten
+森田整形外科経由バロー芥見店,ja,森田整形外科経由バロー芥見店
+森田整形外科経由バロー芥見店,en,Morita Seikeigeka/Valor Akutamiten
+河村病院経由バロー岩田店（バロー芥見店には行きません）,ja,河村病院経由バロー岩田店（バロー芥見店には行きません）
+河村病院経由バロー岩田店（バロー芥見店には行きません）,en,Kawamura Hospital/Valor Iwataten(Don't go to Valor Akutamiten)
+河村病院経由バロー岩田店・バロー芥見店,ja,河村病院経由バロー岩田店・バロー芥見店
+河村病院経由バロー岩田店・バロー芥見店,en,Kawamura Hospital/Valor Iwataten/Valor Akutamiten
+県庁・県民ふれあい会館前経由西岐阜駅南口,ja,県庁・県民ふれあい会館前経由西岐阜駅南口
+県庁・県民ふれあい会館前経由西岐阜駅南口,en,Gifu Prefectural Office/Gifu Fureai Plaza/JR Nishigifu Sta.-south entrance
+県民ふれあい会館前経由西岐阜駅南口,ja,県民ふれあい会館前経由西岐阜駅南口
+県民ふれあい会館前経由西岐阜駅南口,en,Gifu Fureai Plaza/JR Nishigifu Sta.-south entrance
+県総合医療センター経由平和堂,ja,県総合医療センター経由平和堂
+県総合医療センター経由平和堂,en,Ken Sogo Iryo Center(Gifu Prefectural General Medical Center)/HEIWADO
+西回り　ＪＲ岐阜駅南口,ja,西回り　ＪＲ岐阜駅南口
+西回り　ＪＲ岐阜駅南口,en,Counter Clock Wise JR Gifu Sta.-south entrance
+西回り　メガドンキ前・加納高校・南部コミセン経由ＪＲ岐阜駅南口,ja,西回り　メガドンキ前・加納高校・南部コミセン経由ＪＲ岐阜駅南口
+西回り　メガドンキ前・加納高校・南部コミセン経由ＪＲ岐阜駅南口,en,Counter Clock Wise MEGA Don Quijote/Kano High School/Nambu Komisen/JR Gifu Sta.-south entrance
+西回り　加納高校・南部コミセン経由ＪＲ岐阜駅南口,ja,西回り　加納高校・南部コミセン経由ＪＲ岐阜駅南口
+西回り　加納高校・南部コミセン経由ＪＲ岐阜駅南口,en,Counter Clock Wise Kano High School/Nambu Komisen/JR Gifu Sta.-south entrance
+西回り　南部コミセン経由ＪＲ岐阜駅南口,ja,西回り　南部コミセン経由ＪＲ岐阜駅南口
+西回り　南部コミセン経由ＪＲ岐阜駅南口,en,Counter Clock Wise Nambu Komisen/JR Gifu Sta.-south entrance
+諏訪山口・河村病院経由バロー岩田店（バロー芥見店には行きません）,ja,諏訪山口・河村病院経由バロー岩田店（バロー芥見店には行きません）
+諏訪山口・河村病院経由バロー岩田店（バロー芥見店には行きません）,en,Suwayama-guchi/Kawamura Hospital/Valor Iwataten(Don't go to Valor Akutamiten)
+諏訪山口・河村病院経由バロー岩田店・バロー芥見店,ja,諏訪山口・河村病院経由バロー岩田店・バロー芥見店
+諏訪山口・河村病院経由バロー岩田店・バロー芥見店,en,Suwayama-guchi/Kawamura Hospital/Valor Iwataten/Valor Akutamiten
+赤ルート　ＪＲ岐阜駅南口,ja,赤ルート　ＪＲ岐阜駅南口
+赤ルート　ＪＲ岐阜駅南口,en,Red route JR Gifu Sta.-south entrance
+赤ルート　ＪＲ岐阜駅南口経由バロー茜部本郷店,ja,赤ルート　ＪＲ岐阜駅南口経由バロー茜部本郷店
+赤ルート　ＪＲ岐阜駅南口経由バロー茜部本郷店,en,Red route/Clock Wise JR Gifu Sta.-south entrance/Valor Aakanabehongoten
+赤ルート　カラフルタウン経由名鉄柳津駅,ja,赤ルート　カラフルタウン経由名鉄柳津駅
+赤ルート　カラフルタウン経由名鉄柳津駅,en,Red route COLORFUL TOWN/YANAIZU Sta.
+赤ルート　サンマート経由バロー長良店,ja,赤ルート　サンマート経由バロー長良店
+赤ルート　サンマート経由バロー長良店,en,Red route Sunmart/Valor Nagaraten
+赤ルート　バロー茜部本郷店,ja,赤ルート　バロー茜部本郷店
+赤ルート　バロー茜部本郷店,en,Red route/Clock Wise Valor Aakanabehongoten
+赤ルート　もえぎの里・岐阜聖徳学園大学・カラフルタウン経由名鉄柳津駅,ja,赤ルート　もえぎの里・岐阜聖徳学園大学・カラフルタウン経由名鉄柳津駅
+赤ルート　もえぎの里・岐阜聖徳学園大学・カラフルタウン経由名鉄柳津駅,en,Red route Moeginosato/Gifushotokugakuen Univ./COLORFUL TOWN/YANAIZU Sta.
+赤ルート　名鉄柳津駅,ja,赤ルート　名鉄柳津駅
+赤ルート　名鉄柳津駅,en,Red route YANAIZU Sta.
+赤ルート　岐阜聖徳学園大学・カラフルタウン経由名鉄柳津駅,ja,赤ルート　岐阜聖徳学園大学・カラフルタウン経由名鉄柳津駅
+赤ルート　岐阜聖徳学園大学・カラフルタウン経由名鉄柳津駅,en,Red route Gifushotokugakuen Univ./COLORFUL TOWN/YANAIZU Sta.
+青ルート　ＪＲ岐阜駅南口経由バロー茜部本郷店,ja,青ルート　ＪＲ岐阜駅南口経由バロー茜部本郷店
+青ルート　ＪＲ岐阜駅南口経由バロー茜部本郷店,en,Blue route/Counter Clock Wise JR Gifu Sta.-south entrance/Valor Aakanabehongoten
+青ルート イオン柳津店・笠松病院経由名鉄柳津駅,ja,青ルート イオン柳津店・笠松病院経由名鉄柳津駅
+青ルート イオン柳津店・笠松病院経由名鉄柳津駅,en,Blue route AEON Yanaizuten/Kasamatsu Hospital/YANAIZU Sta.
+青ルート イオン柳津店経由名鉄柳津駅,ja,青ルート イオン柳津店経由名鉄柳津駅
+青ルート イオン柳津店経由名鉄柳津駅,en,Blue route AEON Yanaizuten/YANAIZU Sta.
+青ルート　バロー茜部本郷店,ja,青ルート　バロー茜部本郷店
+青ルート　バロー茜部本郷店,en,Blue route Valor Aakanabehongoten
+青ルート　バロー長良店,ja,青ルート　バロー長良店
+青ルート　バロー長良店,en,Blue route Valor Nagaraten
+青ルート もえぎの里・イオン柳津店経由名鉄柳津駅,ja,青ルート もえぎの里・イオン柳津店経由名鉄柳津駅
+青ルート もえぎの里・イオン柳津店経由名鉄柳津駅,en,Blue route Moeginosato/AEON Yanaizuten/YANAIZU Sta.
+青ルート　中川原経由バロー長良店,ja,青ルート　中川原経由バロー長良店
+青ルート　中川原経由バロー長良店,en,Blue route Nakagawara/Valor Nagaraten
+青ルート 名鉄柳津駅,ja,青ルート 名鉄柳津駅
+青ルート 名鉄柳津駅,en,Blue route YANAIZU Sta.
+青ルート 松波総合病院・イオン柳津店・笠松病院経由名鉄柳津駅,ja,青ルート 松波総合病院・イオン柳津店・笠松病院経由名鉄柳津駅
+青ルート 松波総合病院・イオン柳津店・笠松病院経由名鉄柳津駅,en,Blue route Matsunami General Hospital/AEON Yanaizuten/Kasamatsu Hospital/YANAIZU Sta.
+３７３バス,ja,３７３バス
+３７３バス,en,Minami Bus
+eバス,ja,eバス
+eバス,en,e Bus
+あいあいバス,ja,あいあいバス
+あいあいバス,en,Aiai Bus
+ぐるっとバス,ja,ぐるっとバス
+ぐるっとバス,en,Gurutto Bus
+さんさんバス,ja,さんさんバス
+さんさんバス,en,Sansan Bus
+すまいるバス,ja,すまいるバス
+すまいるバス,en,Sumairu Bus
+ながらうかいバス,ja,ながらうかいバス
+ながらうかいバス,en,Nagaraukai Bus
+にっこりバス,ja,にっこりバス
+にっこりバス,en,Nikkori Bus
+ひのっこバス,ja,ひのっこバス
+ひのっこバス,en,Hinokko Bus
+ほっとバス,ja,ほっとバス
+ほっとバス,en,Hotto Bus
+みどりっこバス,ja,みどりっこバス
+みどりっこバス,en,Midorikko Bus
+みわっこバス,ja,みわっこバス
+みわっこバス,en,Miwakko Bus
+七郷・木田バス,ja,七郷・木田バス
+七郷・木田バス,en,Nanasato Kida Bus
+加納めぐりバス,ja,加納めぐりバス
+加納めぐりバス,en,Kanou Meguri Bus
+厚見・茜部ぐるりふれあいバス,ja,厚見・茜部ぐるりふれあいバス
+厚見・茜部ぐるりふれあいバス,en,Atsumi Akanabe Gururi Fureai Bus
+境川らくちゃんバス,ja,境川らくちゃんバス
+境川らくちゃんバス,en,Sakaigawa Rakucyan Bus
+芥見岩っこバス,ja,芥見岩っこバス
+芥見岩っこバス,en,Akutamiiwakko Bus
+西ぎふ・くるくるバス,ja,西ぎふ・くるくるバス
+西ぎふ・くるくるバス,en,Nishigifu Kurukuru Bus
+長森ふれあいバス,ja,長森ふれあいバス
+長森ふれあいバス,en,Nagamori Fureai Bus

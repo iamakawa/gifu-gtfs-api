@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+岐阜市,https://www.city.gifu.lg.jp/,ja,20210301,20220228,2021/03/01改正
